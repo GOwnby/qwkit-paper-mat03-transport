@@ -1,4 +1,6 @@
-﻿# Immobile electrons at frozen gate charge: what the transport data of electrolyte-gated LaInO3/BaSnO3 allow
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23444588.svg)](https://doi.org/10.5281/zenodo.23444588)
+
+# Immobile electrons at frozen gate charge: what the transport data of electrolyte-gated LaInO3/BaSnO3 allow
 
 **Author:** Gracen Ownby (University of Oklahoma)  
 **Date:** October 2026  
