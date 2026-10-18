@@ -1,0 +1,55 @@
+{
+ "source": "Lee et al., Adv. Electron. Mater. 11, 2400811 (2024), Fig. 3a, digitized from the 600 dpi rendering of the published PDF (axes from the frame: T 1-397 K log, R_s 1e1-1e7 Ohm log; colour masks of the legend markers; median marker row within +-6 px of each temperature). Values for 0-4 V overlap other series and are not used.",
+ "T": [
+  2,
+  4.3,
+  10,
+  20,
+  50,
+  100,
+  150,
+  200
+ ],
+ "Rs": {
+  "5V": [
+   462.9,
+   460.7,
+   458.4,
+   449.6,
+   422.1,
+   420.1,
+   438.8,
+   546.0
+  ],
+  "6V": [
+   159.9,
+   163.8,
+   163.0,
+   167.0,
+   177.0,
+   195.1,
+   217.1,
+   297.6
+  ],
+  "7V": [
+   125.4,
+   121.8,
+   118.3,
+   112.2,
+   105.8,
+   104.8,
+   107.9,
+   118.9
+  ],
+  "8V": [
+   68.7,
+   65.8,
+   61.1,
+   58.2,
+   54.2,
+   55.2,
+   60.3,
+   69.0
+  ]
+ }
+}

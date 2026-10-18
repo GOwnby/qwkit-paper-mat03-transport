@@ -1,0 +1,47 @@
+== (a) resistance upturn below 50 K
+4V: R(2K)/R(50K) = - (Fig. 3a), 0.612 (Hall) | A = - (Fig. 3a), -29 (Hall) | k_F l = - / 76 | 50->2 K: n_H -7%, mu_H +76%
+5V: R(2K)/R(50K) = 1.097 (Fig. 3a), 1.097 (Hall) | A = 5 (Fig. 3a), 7 (Hall) | k_F l = 56 / 72 | 50->2 K: n_H -11%, mu_H +3% | R_s(Fig. 3a)/R_s(Hall) at 2-150 K: [1.3, 1.31, 1.3, 1.24, 1.14]
+6V: R(2K)/R(50K) = 0.903 (Fig. 3a), - (Hall) | A = -15 (Fig. 3a), - (Hall) | k_F l = 161 / -
+7V: R(2K)/R(50K) = 1.185 (Fig. 3a), 1.245 (Hall) | A = 37 (Fig. 3a), 66 (Hall) | k_F l = 206 / 275 | 50->2 K: n_H -15%, mu_H -5% | R_s(Fig. 3a)/R_s(Hall) at 2-150 K: [1.33, 1.41, 1.4, 1.34, 1.15]
+8V: R(2K)/R(50K) = 1.268 (Fig. 3a), 1.311 (Hall) | A = 98 (Fig. 3a), 164 (Hall) | k_F l = 376 / 540 | 50->2 K: n_H -22%, mu_H -3% | R_s(Fig. 3a)/R_s(Hall) at 2-150 K: [1.44, 1.45, 1.49, 1.47, 1.33]
+== (b) two-subband reading with straight-line Hall fits over 0-7 T
+NA 1e+18 3V   2 K: f1 0.924 | x 1.87 mu1 113 mu2 211 | n_H(B->0) 1.97e+13 vs fit 1.97e+13 | R_xy off the line by 0.0%
+NA 1e+18 3V  10 K: f1 0.924 | x 1.59 mu1 118 mu2 188 | n_H(B->0) 2.01e+13 vs fit 2.02e+13 | R_xy off the line by 0.0%
+NA 1e+18 3V  50 K: n_H = n_tot
+NA 1e+18 3V 100 K: n_H = n_tot
+NA 1e+18 4V   2 K: f1 0.837 | x 2.19 mu1 410 mu2 899 | n_H(B->0) 3.32e+13 vs fit 3.38e+13 | R_xy off the line by 0.9%
+NA 1e+18 4V  10 K: f1 0.837 | x 1.90 mu1 353 mu2 670 | n_H(B->0) 3.48e+13 vs fit 3.51e+13 | R_xy off the line by 0.4%
+NA 1e+18 4V  50 K: f1 0.837 | x 1.56 mu1 274 mu2 429 | n_H(B->0) 3.64e+13 vs fit 3.65e+13 | R_xy off the line by 0.1%
+NA 1e+18 4V 100 K: f1 0.837 | x 1.27 mu1 258 mu2 327 | n_H(B->0) 3.74e+13 vs fit 3.74e+13 | R_xy off the line by 0.0%
+NA 1e+18 5V   2 K: f1 0.813 | x 2.45 mu1 281 mu2 688 | n_H(B->0) 4.09e+13 vs fit 4.15e+13 | R_xy off the line by 0.8%
+NA 1e+18 5V  10 K: f1 0.813 | x 2.20 mu1 297 mu2 654 | n_H(B->0) 4.28e+13 vs fit 4.32e+13 | R_xy off the line by 0.6%
+NA 1e+18 5V  50 K: f1 0.813 | x 1.67 mu1 348 mu2 582 | n_H(B->0) 4.65e+13 vs fit 4.67e+13 | R_xy off the line by 0.2%
+NA 1e+18 5V 100 K: f1 0.813 | x 1.34 mu1 354 mu2 476 | n_H(B->0) 4.83e+13 vs fit 4.83e+13 | R_xy off the line by 0.1%
+NA 1e+18 7V   2 K: f1 0.785 | x 3.85 mu1 562 mu2 2163 | n_H(B->0) 4.80e+13 vs fit 5.43e+13 | R_xy off the line by 5.4%
+NA 1e+18 7V  10 K: f1 0.785 | x 3.62 mu1 647 mu2 2345 | n_H(B->0) 4.97e+13 vs fit 5.67e+13 | R_xy off the line by 5.4%
+NA 1e+18 7V  50 K: f1 0.785 | x 2.67 mu1 830 mu2 2213 | n_H(B->0) 5.85e+13 vs fit 6.39e+13 | R_xy off the line by 3.3%
+NA 1e+18 7V 100 K: f1 0.784 | x 1.83 mu1 924 mu2 1690 | n_H(B->0) 6.76e+13 vs fit 6.96e+13 | R_xy off the line by 1.1%
+NA 1e+18 8V   2 K: f1 0.757 | x 6.64 mu1 510 mu2 3386 | n_H(B->0) 5.29e+13 vs fit 6.50e+13 | R_xy off the line by 9.3%
+NA 1e+18 8V  10 K: f1 0.757 | x 6.10 mu1 614 mu2 3745 | n_H(B->0) 5.53e+13 vs fit 7.01e+13 | R_xy off the line by 9.8%
+NA 1e+18 8V  50 K: f1 0.757 | x 4.48 mu1 859 mu2 3846 | n_H(B->0) 6.53e+13 vs fit 8.29e+13 | R_xy off the line by 7.8%
+NA 1e+18 8V 100 K: f1 0.757 | x 3.08 mu1 1023 mu2 3150 | n_H(B->0) 8.00e+13 vs fit 9.29e+13 | R_xy off the line by 4.6%
+NA 5e+19 3V   2 K: f1 1.000 | no two-subband solution
+NA 5e+19 3V  10 K: f1 1.000 | no two-subband solution
+NA 5e+19 3V  50 K: n_H = n_tot
+NA 5e+19 3V 100 K: n_H = n_tot
+NA 5e+19 4V   2 K: f1 1.000 | no two-subband solution
+NA 5e+19 4V  10 K: f1 1.000 | no two-subband solution
+NA 5e+19 4V  50 K: f1 1.000 | no two-subband solution
+NA 5e+19 4V 100 K: f1 1.000 | no two-subband solution
+NA 5e+19 5V   2 K: f1 1.000 | no two-subband solution
+NA 5e+19 5V  10 K: f1 1.000 | no two-subband solution
+NA 5e+19 5V  50 K: f1 1.000 | no two-subband solution
+NA 5e+19 5V 100 K: f1 1.000 | no two-subband solution
+NA 5e+19 7V   2 K: f1 0.968 | x 18.71 mu1 580 mu2 10850 | n_H(B->0) 1.48e+13 vs fit 5.43e+13 | R_xy off the line by 29.3%
+NA 5e+19 7V  10 K: f1 0.968 | x 18.84 mu1 646 mu2 12172 | n_H(B->0) 1.47e+13 vs fit 5.67e+13 | R_xy off the line by 27.8%
+NA 5e+19 7V  50 K: f1 0.968 | x 10.72 mu1 861 mu2 9233 | n_H(B->0) 2.72e+13 vs fit 6.39e+13 | R_xy off the line by 13.6%
+NA 5e+19 7V 100 K: f1 0.967 | x 3.79 mu1 998 mu2 3785 | n_H(B->0) 6.07e+13 vs fit 6.96e+13 | R_xy off the line by 2.4%
+NA 5e+19 8V   2 K: f1 0.883 | x 10.19 mu1 583 mu2 5940 | n_H(B->0) 3.57e+13 vs fit 6.50e+13 | R_xy off the line by 18.4%
+NA 5e+19 8V  10 K: f1 0.883 | x 9.86 mu1 675 mu2 6660 | n_H(B->0) 3.65e+13 vs fit 7.01e+13 | R_xy off the line by 18.0%
+NA 5e+19 8V  50 K: f1 0.883 | x 7.33 mu1 911 mu2 6675 | n_H(B->0) 4.57e+13 vs fit 8.29e+13 | R_xy off the line by 13.7%
+NA 5e+19 8V 100 K: f1 0.883 | x 4.52 mu1 1092 mu2 4929 | n_H(B->0) 6.58e+13 vs fit 9.29e+13 | R_xy off the line by 7.0%

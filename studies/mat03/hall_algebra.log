@@ -1,0 +1,68 @@
+NA 5e+19 2V T    2: n_H/n_tot 0.943 f1 1.000 | x_low None x_high None
+NA 5e+19 2V T   10: n_H/n_tot 0.971 f1 1.000 | x_low None x_high None
+NA 5e+19 2V T   50: n_H/n_tot 1.000 f1 1.000 | x_low None x_high None
+NA 5e+19 2V T  100: n_H/n_tot 1.000 f1 1.000 | x_low None x_high None
+NA 5e+19 2V T  150: n_H/n_tot 1.000 f1 1.000 | x_low None x_high None
+NA 5e+19 3V T    2: n_H/n_tot 0.956 f1 1.000 | x_low None x_high None
+NA 5e+19 3V T   10: n_H/n_tot 0.978 f1 1.000 | x_low None x_high None
+NA 5e+19 3V T   50: n_H/n_tot 1.000 f1 1.000 | x_low None x_high None
+NA 5e+19 3V T  100: n_H/n_tot 1.000 f1 1.000 | x_low None x_high None
+NA 5e+19 3V T  150: n_H/n_tot 1.000 f1 1.000 | x_low None x_high None
+NA 5e+19 4V T    2: n_H/n_tot 0.896 f1 1.000 | x_low None x_high None
+NA 5e+19 4V T   10: n_H/n_tot 0.930 f1 1.000 | x_low None x_high None
+NA 5e+19 4V T   50: n_H/n_tot 0.966 f1 1.000 | x_low None x_high None
+NA 5e+19 4V T  100: n_H/n_tot 0.992 f1 1.000 | x_low None x_high None
+NA 5e+19 4V T  150: n_H/n_tot 1.000 f1 1.000 | x_low None x_high None
+NA 5e+19 5V T    2: n_H/n_tot 0.846 f1 1.000 | x_low None x_high None
+NA 5e+19 5V T   10: n_H/n_tot 0.881 f1 1.000 | x_low None x_high None
+NA 5e+19 5V T   50: n_H/n_tot 0.952 f1 1.000 | x_low None x_high None
+NA 5e+19 5V T  100: n_H/n_tot 0.985 f1 1.000 | x_low None x_high None
+NA 5e+19 5V T  150: n_H/n_tot 1.000 f1 1.000 | x_low None x_high None
+NA 5e+19 6V T   10: n_H/n_tot 0.824 f1 0.981 | x_low None x_high 4.63 | mu1/mu2 (high) 635/2941
+NA 5e+19 6V T   50: n_H/n_tot 0.856 f1 0.981 | x_low None x_high 4.17 | mu1/mu2 (high) 604/2522
+NA 5e+19 6V T  100: n_H/n_tot 0.918 f1 0.980 | x_low None x_high 3.21 | mu1/mu2 (high) 555/1782
+NA 5e+19 6V T  150: n_H/n_tot 1.000 f1 0.977 | x_low None x_high None
+NA 5e+19 7V T    2: n_H/n_tot 0.741 f1 0.968 | x_low None x_high 4.78 | mu1/mu2 (high) 809/3865
+NA 5e+19 7V T   10: n_H/n_tot 0.774 f1 0.968 | x_low None x_high 4.42 | mu1/mu2 (high) 913/4033
+NA 5e+19 7V T   50: n_H/n_tot 0.872 f1 0.968 | x_low None x_high 3.34 | mu1/mu2 (high) 1050/3511
+NA 5e+19 7V T  100: n_H/n_tot 0.950 f1 0.967 | x_low None x_high 2.35 | mu1/mu2 (high) 1043/2453
+NA 5e+19 7V T  150: n_H/n_tot 1.000 f1 0.965 | x_low None x_high None
+NA 5e+19 8V T    2: n_H/n_tot 0.602 f1 0.883 | x_low None x_high 4.6 | mu1/mu2 (high) 851/3914
+NA 5e+19 8V T   10: n_H/n_tot 0.649 f1 0.883 | x_low None x_high 4.12 | mu1/mu2 (high) 1007/4152
+NA 5e+19 8V T   50: n_H/n_tot 0.767 f1 0.883 | x_low None x_high 3.14 | mu1/mu2 (high) 1267/3985
+NA 5e+19 8V T  100: n_H/n_tot 0.860 f1 0.883 | x_low None x_high 2.47 | mu1/mu2 (high) 1315/3245
+NA 5e+19 8V T  150: n_H/n_tot 1.000 f1 0.883 | x_low None x_high None
+NA 1e+18 2V T    2: n_H/n_tot 0.943 f1 0.995 | x_low None x_high 4.58 | mu1/mu2 (high) 157/721
+NA 1e+18 2V T   10: n_H/n_tot 0.971 f1 0.994 | x_low None x_high 3.35 | mu1/mu2 (high) 163/546
+NA 1e+18 2V T   50: n_H/n_tot 1.000 f1 0.987 | x_low None x_high None
+NA 1e+18 2V T  100: n_H/n_tot 1.000 f1 0.977 | x_low None x_high None
+NA 1e+18 2V T  150: n_H/n_tot 1.000 f1 0.966 | x_low None x_high None
+NA 1e+18 3V T    2: n_H/n_tot 0.956 f1 0.924 | x_low 0.239 x_high 1.86 | mu1/mu2 (high) 113/211
+NA 1e+18 3V T   10: n_H/n_tot 0.978 f1 0.924 | x_low 0.459 x_high 1.59 | mu1/mu2 (high) 118/188
+NA 1e+18 3V T   50: n_H/n_tot 1.000 f1 0.924 | x_low None x_high None
+NA 1e+18 3V T  100: n_H/n_tot 1.000 f1 0.922 | x_low None x_high None
+NA 1e+18 3V T  150: n_H/n_tot 1.000 f1 0.918 | x_low None x_high None
+NA 1e+18 4V T    2: n_H/n_tot 0.896 f1 0.837 | x_low 0.196 x_high 2.09 | mu1/mu2 (high) 416/868
+NA 1e+18 4V T   10: n_H/n_tot 0.930 f1 0.837 | x_low 0.335 x_high 1.85 | mu1/mu2 (high) 356/657
+NA 1e+18 4V T   50: n_H/n_tot 0.966 f1 0.837 | x_low 0.533 x_high 1.55 | mu1/mu2 (high) 275/426
+NA 1e+18 4V T  100: n_H/n_tot 0.992 f1 0.837 | x_low 0.759 x_high 1.26 | mu1/mu2 (high) 259/326
+NA 1e+18 4V T  150: n_H/n_tot 1.000 f1 0.837 | x_low None x_high None
+NA 1e+18 5V T    2: n_H/n_tot 0.846 f1 0.813 | x_low 0.092 x_high 2.37 | mu1/mu2 (high) 284/675
+NA 1e+18 5V T   10: n_H/n_tot 0.881 f1 0.813 | x_low 0.198 x_high 2.14 | mu1/mu2 (high) 299/642
+NA 1e+18 5V T   50: n_H/n_tot 0.952 f1 0.813 | x_low 0.481 x_high 1.64 | mu1/mu2 (high) 350/575
+NA 1e+18 5V T  100: n_H/n_tot 0.985 f1 0.813 | x_low 0.704 x_high 1.33 | mu1/mu2 (high) 355/473
+NA 1e+18 5V T  150: n_H/n_tot 1.000 f1 0.813 | x_low None x_high None
+NA 1e+18 6V T   10: n_H/n_tot 0.824 f1 0.790 | x_low 0.084 x_high 2.49 | mu1/mu2 (high) 517/1287
+NA 1e+18 6V T   50: n_H/n_tot 0.856 f1 0.789 | x_low 0.172 x_high 2.27 | mu1/mu2 (high) 505/1148
+NA 1e+18 6V T  100: n_H/n_tot 0.918 f1 0.788 | x_low 0.367 x_high 1.87 | mu1/mu2 (high) 490/915
+NA 1e+18 6V T  150: n_H/n_tot 1.000 f1 0.787 | x_low None x_high None
+NA 1e+18 7V T    2: n_H/n_tot 0.741 f1 0.785 | x_low None x_high 3.09 | mu1/mu2 (high) 625/1930
+NA 1e+18 7V T   10: n_H/n_tot 0.774 f1 0.785 | x_low None x_high 2.83 | mu1/mu2 (high) 726/2057
+NA 1e+18 7V T   50: n_H/n_tot 0.872 f1 0.785 | x_low 0.224 x_high 2.17 | mu1/mu2 (high) 901/1953
+NA 1e+18 7V T  100: n_H/n_tot 0.950 f1 0.784 | x_low 0.501 x_high 1.64 | mu1/mu2 (high) 958/1568
+NA 1e+18 7V T  150: n_H/n_tot 1.000 f1 0.783 | x_low None x_high None
+NA 1e+18 8V T    2: n_H/n_tot 0.602 f1 0.757 | x_low None x_high 4.52 | mu1/mu2 (high) 652/2946
+NA 1e+18 8V T   10: n_H/n_tot 0.649 f1 0.757 | x_low None x_high 3.94 | mu1/mu2 (high) 802/3158
+NA 1e+18 8V T   50: n_H/n_tot 0.767 f1 0.757 | x_low 0.021 x_high 2.87 | mu1/mu2 (high) 1090/3126
+NA 1e+18 8V T  100: n_H/n_tot 0.860 f1 0.757 | x_low 0.236 x_high 2.22 | mu1/mu2 (high) 1189/2635
+NA 1e+18 8V T  150: n_H/n_tot 1.000 f1 0.757 | x_low None x_high None

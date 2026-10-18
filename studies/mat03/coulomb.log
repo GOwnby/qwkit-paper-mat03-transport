@@ -1,0 +1,480 @@
+NA 1e+18 4V eps_cap 24 Z 1 d  1.0: mu_i [1205, 2018] x 1.68 mu_sigma 1337 n_H/n_tot 0.952 MR(7T)-MR(2T) 1.86%
+NA 1e+18 4V eps_cap 38 Z 1 d  1.0: mu_i [1962, 3151] x 1.61 mu_sigma 2156 n_H/n_tot 0.960 MR(7T)-MR(2T) 1.73%
+NA 1e+18 4V eps_cap 24 Z 1 d  2.0: mu_i [1506, 2454] x 1.63 mu_sigma 1661 n_H/n_tot 0.957 MR(7T)-MR(2T) 1.80%
+NA 1e+18 4V eps_cap 38 Z 1 d  2.0: mu_i [2430, 3775] x 1.55 mu_sigma 2649 n_H/n_tot 0.966 MR(7T)-MR(2T) 1.43%
+NA 1e+18 4V eps_cap 24 Z 1 d  3.0: mu_i [1871, 2969] x 1.59 mu_sigma 2050 n_H/n_tot 0.962 MR(7T)-MR(2T) 1.65%
+NA 1e+18 4V eps_cap 38 Z 1 d  3.0: mu_i [2987, 4492] x 1.5 mu_sigma 3233 n_H/n_tot 0.971 MR(7T)-MR(2T) 1.12%
+NA 1e+18 4V eps_cap 24 Z 1 d  4.0: mu_i [2300, 3557] x 1.55 mu_sigma 2505 n_H/n_tot 0.967 MR(7T)-MR(2T) 1.43%
+NA 1e+18 4V eps_cap 38 Z 1 d  4.0: mu_i [3631, 5283] x 1.45 mu_sigma 3900 n_H/n_tot 0.976 MR(7T)-MR(2T) 0.84%
+NA 1e+18 4V eps_cap 24 Z 1 d  6.0: mu_i [3346, 4910] x 1.47 mu_sigma 3601 n_H/n_tot 0.975 MR(7T)-MR(2T) 0.93%
+NA 1e+18 4V eps_cap 38 Z 1 d  6.0: mu_i [5160, 7002] x 1.36 mu_sigma 5460 n_H/n_tot 0.985 MR(7T)-MR(2T) 0.41%
+NA 1e+18 4V eps_cap 24 Z 1 d  8.0: mu_i [4630, 6408] x 1.38 mu_sigma 4920 n_H/n_tot 0.982 MR(7T)-MR(2T) 0.52%
+NA 1e+18 4V eps_cap 38 Z 1 d  8.0: mu_i [6975, 8757] x 1.26 mu_sigma 7266 n_H/n_tot 0.992 MR(7T)-MR(2T) 0.17%
+NA 1e+18 4V eps_cap 24 Z 1 d 12.0: mu_i [7843, 9383] x 1.2 mu_sigma 8095 n_H/n_tot 0.995 MR(7T)-MR(2T) 0.09%
+NA 1e+18 4V eps_cap 38 Z 1 d 12.0: mu_i [11321, 11815] x 1.04 mu_sigma 11401 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 1e+18 4V eps_cap 24 Z 1 d 16.0: mu_i [11815, 11778] x 1.0 mu_sigma 11809 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 1e+18 4V eps_cap 38 Z 1 d 16.0: mu_i [16420, 13877] x 0.85 mu_sigma 16005 n_H/n_tot 0.997 MR(7T)-MR(2T) 0.04%
+NA 1e+18 4V eps_cap 24 Z 1 d 24.0: mu_i [21277, 14419] x 0.68 mu_sigma 20159 n_H/n_tot 0.984 MR(7T)-MR(2T) 0.19%
+NA 1e+18 4V eps_cap 38 Z 1 d 24.0: mu_i [27554, 15773] x 0.57 mu_sigma 25632 n_H/n_tot 0.972 MR(7T)-MR(2T) 0.32%
+NA 1e+18 4V eps_cap 24 Z 1 d 32.0: mu_i [30782, 15712] x 0.51 mu_sigma 28323 n_H/n_tot 0.963 MR(7T)-MR(2T) 0.46%
+NA 1e+18 4V eps_cap 38 Z 1 d 32.0: mu_i [37580, 16742] x 0.45 mu_sigma 34180 n_H/n_tot 0.952 MR(7T)-MR(2T) 0.59%
+NA 1e+18 4V eps_cap 24 Z 2 d  1.0: mu_i [612, 1055] x 1.72 mu_sigma 684 n_H/n_tot 0.946 MR(7T)-MR(2T) 1.12%
+NA 1e+18 4V eps_cap 38 Z 2 d  1.0: mu_i [1004, 1688] x 1.68 mu_sigma 1116 n_H/n_tot 0.951 MR(7T)-MR(2T) 1.68%
+NA 1e+18 4V eps_cap 24 Z 2 d  2.0: mu_i [767, 1293] x 1.69 mu_sigma 853 n_H/n_tot 0.951 MR(7T)-MR(2T) 1.32%
+NA 1e+18 4V eps_cap 38 Z 2 d  2.0: mu_i [1250, 2048] x 1.64 mu_sigma 1380 n_H/n_tot 0.956 MR(7T)-MR(2T) 1.72%
+NA 1e+18 4V eps_cap 24 Z 2 d  3.0: mu_i [958, 1581] x 1.65 mu_sigma 1060 n_H/n_tot 0.955 MR(7T)-MR(2T) 1.49%
+NA 1e+18 4V eps_cap 38 Z 2 d  3.0: mu_i [1546, 2473] x 1.6 mu_sigma 1698 n_H/n_tot 0.961 MR(7T)-MR(2T) 1.67%
+NA 1e+18 4V eps_cap 24 Z 2 d  4.0: mu_i [1184, 1917] x 1.62 mu_sigma 1303 n_H/n_tot 0.959 MR(7T)-MR(2T) 1.59%
+NA 1e+18 4V eps_cap 38 Z 2 d  4.0: mu_i [1893, 2957] x 1.56 mu_sigma 2067 n_H/n_tot 0.965 MR(7T)-MR(2T) 1.53%
+NA 1e+18 4V eps_cap 24 Z 2 d  6.0: mu_i [1743, 2723] x 1.56 mu_sigma 1903 n_H/n_tot 0.965 MR(7T)-MR(2T) 1.53%
+NA 1e+18 4V eps_cap 38 Z 2 d  6.0: mu_i [2733, 4071] x 1.49 mu_sigma 2951 n_H/n_tot 0.973 MR(7T)-MR(2T) 1.13%
+NA 1e+18 4V eps_cap 24 Z 2 d  8.0: mu_i [2446, 3676] x 1.5 mu_sigma 2647 n_H/n_tot 0.971 MR(7T)-MR(2T) 1.23%
+NA 1e+18 4V eps_cap 38 Z 2 d  8.0: mu_i [3757, 5313] x 1.41 mu_sigma 4011 n_H/n_tot 0.980 MR(7T)-MR(2T) 0.71%
+NA 1e+18 4V eps_cap 24 Z 2 d 12.0: mu_i [4272, 5819] x 1.36 mu_sigma 4525 n_H/n_tot 0.984 MR(7T)-MR(2T) 0.51%
+NA 1e+18 4V eps_cap 38 Z 2 d 12.0: mu_i [6314, 7841] x 1.24 mu_sigma 6564 n_H/n_tot 0.993 MR(7T)-MR(2T) 0.17%
+NA 1e+18 4V eps_cap 24 Z 2 d 16.0: mu_i [6641, 7922] x 1.19 mu_sigma 6850 n_H/n_tot 0.995 MR(7T)-MR(2T) 0.11%
+NA 1e+18 4V eps_cap 38 Z 2 d 16.0: mu_i [9492, 10002] x 1.05 mu_sigma 9575 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.01%
+NA 1e+18 4V eps_cap 24 Z 2 d 24.0: mu_i [12868, 11036] x 0.86 mu_sigma 12569 n_H/n_tot 0.997 MR(7T)-MR(2T) 0.05%
+NA 1e+18 4V eps_cap 38 Z 2 d 24.0: mu_i [17315, 12705] x 0.73 mu_sigma 16563 n_H/n_tot 0.990 MR(7T)-MR(2T) 0.15%
+NA 1e+18 4V eps_cap 24 Z 2 d 32.0: mu_i [20305, 12909] x 0.64 mu_sigma 19099 n_H/n_tot 0.980 MR(7T)-MR(2T) 0.30%
+NA 1e+18 4V eps_cap 38 Z 2 d 32.0: mu_i [25845, 14223] x 0.55 mu_sigma 23949 n_H/n_tot 0.969 MR(7T)-MR(2T) 0.44%
+NA 1e+18 4V eps_cap 50 Z 1 d  1.0: mu_i [2729, 4213] x 1.54 mu_sigma 2971 n_H/n_tot 0.967 MR(7T)-MR(2T) 1.32%
+NA 1e+18 4V eps_cap 50 Z 1 d  2.0: mu_i [3356, 4987] x 1.49 mu_sigma 3623 n_H/n_tot 0.973 MR(7T)-MR(2T) 0.98%
+NA 1e+18 4V eps_cap 50 Z 1 d  3.0: mu_i [4095, 5855] x 1.43 mu_sigma 4382 n_H/n_tot 0.978 MR(7T)-MR(2T) 0.69%
+NA 1e+18 4V eps_cap 50 Z 1 d  4.0: mu_i [4938, 6787] x 1.37 mu_sigma 5239 n_H/n_tot 0.983 MR(7T)-MR(2T) 0.46%
+NA 1e+18 4V eps_cap 50 Z 1 d  6.0: mu_i [6900, 8722] x 1.26 mu_sigma 7197 n_H/n_tot 0.991 MR(7T)-MR(2T) 0.18%
+NA 1e+18 4V eps_cap 50 Z 1 d  8.0: mu_i [9177, 10573] x 1.15 mu_sigma 9405 n_H/n_tot 0.997 MR(7T)-MR(2T) 0.05%
+NA 1e+18 5V eps_cap 24 Z 1 d  1.0: mu_i [1032, 1888] x 1.83 mu_sigma 1192 n_H/n_tot 0.927 MR(7T)-MR(2T) 2.69%
+NA 1e+18 4V eps_cap 50 Z 1 d 12.0: mu_i [14458, 13491] x 0.93 mu_sigma 14301 n_H/n_tot 0.999 MR(7T)-MR(2T) 0.01%
+NA 1e+18 5V eps_cap 24 Z 1 d  2.0: mu_i [1321, 2363] x 1.79 mu_sigma 1515 n_H/n_tot 0.933 MR(7T)-MR(2T) 2.80%
+NA 1e+18 4V eps_cap 50 Z 1 d 16.0: mu_i [20404, 15209] x 0.75 mu_sigma 19556 n_H/n_tot 0.990 MR(7T)-MR(2T) 0.10%
+NA 1e+18 5V eps_cap 24 Z 1 d  3.0: mu_i [1680, 2948] x 1.76 mu_sigma 1917 n_H/n_tot 0.938 MR(7T)-MR(2T) 2.74%
+NA 1e+18 4V eps_cap 50 Z 1 d 24.0: mu_i [32514, 16612] x 0.51 mu_sigma 29919 n_H/n_tot 0.963 MR(7T)-MR(2T) 0.42%
+NA 1e+18 5V eps_cap 24 Z 1 d  4.0: mu_i [2110, 3642] x 1.73 mu_sigma 2396 n_H/n_tot 0.942 MR(7T)-MR(2T) 2.52%
+NA 1e+18 4V eps_cap 50 Z 1 d 32.0: mu_i [42579, 17405] x 0.41 mu_sigma 38471 n_H/n_tot 0.945 MR(7T)-MR(2T) 0.67%
+NA 1e+18 5V eps_cap 24 Z 1 d  6.0: mu_i [3183, 5324] x 1.67 mu_sigma 3583 n_H/n_tot 0.949 MR(7T)-MR(2T) 1.82%
+NA 1e+18 4V eps_cap 50 Z 2 d  1.0: mu_i [1407, 2312] x 1.64 mu_sigma 1555 n_H/n_tot 0.956 MR(7T)-MR(2T) 1.83%
+NA 1e+18 5V eps_cap 24 Z 1 d  8.0: mu_i [4519, 7302] x 1.62 mu_sigma 5039 n_H/n_tot 0.956 MR(7T)-MR(2T) 1.15%
+NA 1e+18 4V eps_cap 50 Z 2 d  2.0: mu_i [1742, 2781] x 1.6 mu_sigma 1912 n_H/n_tot 0.961 MR(7T)-MR(2T) 1.69%
+NA 1e+18 5V eps_cap 24 Z 1 d 12.0: mu_i [7880, 11561] x 1.47 mu_sigma 8567 n_H/n_tot 0.973 MR(7T)-MR(2T) 0.37%
+NA 1e+18 4V eps_cap 50 Z 2 d  3.0: mu_i [2142, 3324] x 1.55 mu_sigma 2335 n_H/n_tot 0.966 MR(7T)-MR(2T) 1.47%
+NA 1e+18 5V eps_cap 24 Z 1 d 16.0: mu_i [12048, 15364] x 1.28 mu_sigma 12667 n_H/n_tot 0.990 MR(7T)-MR(2T) 0.09%
+NA 1e+18 4V eps_cap 50 Z 2 d  4.0: mu_i [2604, 3932] x 1.51 mu_sigma 2821 n_H/n_tot 0.971 MR(7T)-MR(2T) 1.22%
+NA 1e+18 5V eps_cap 24 Z 1 d 24.0: mu_i [22361, 20149] x 0.9 mu_sigma 21948 n_H/n_tot 0.998 MR(7T)-MR(2T) 0.01%
+NA 1e+18 4V eps_cap 50 Z 2 d  6.0: mu_i [3707, 5285] x 1.43 mu_sigma 3965 n_H/n_tot 0.979 MR(7T)-MR(2T) 0.74%
+NA 1e+18 5V eps_cap 24 Z 1 d 32.0: mu_i [33571, 22662] x 0.68 mu_sigma 31533 n_H/n_tot 0.982 MR(7T)-MR(2T) 0.09%
+NA 1e+18 4V eps_cap 50 Z 2 d  8.0: mu_i [5026, 6723] x 1.34 mu_sigma 5303 n_H/n_tot 0.986 MR(7T)-MR(2T) 0.39%
+NA 1e+18 5V eps_cap 24 Z 2 d  1.0: mu_i [521, 970] x 1.86 mu_sigma 605 n_H/n_tot 0.923 MR(7T)-MR(2T) 1.38%
+NA 1e+18 4V eps_cap 50 Z 2 d 12.0: mu_i [8228, 9428] x 1.15 mu_sigma 8424 n_H/n_tot 0.997 MR(7T)-MR(2T) 0.05%
+NA 1e+18 5V eps_cap 24 Z 2 d  2.0: mu_i [669, 1221] x 1.82 mu_sigma 773 n_H/n_tot 0.928 MR(7T)-MR(2T) 1.76%
+NA 1e+18 4V eps_cap 50 Z 2 d 16.0: mu_i [12085, 11504] x 0.95 mu_sigma 11990 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 1e+18 5V eps_cap 24 Z 2 d  3.0: mu_i [855, 1535] x 1.8 mu_sigma 982 n_H/n_tot 0.932 MR(7T)-MR(2T) 2.14%
+NA 1e+18 4V eps_cap 50 Z 2 d 24.0: mu_i [21100, 13815] x 0.65 mu_sigma 19911 n_H/n_tot 0.982 MR(7T)-MR(2T) 0.24%
+NA 1e+18 5V eps_cap 24 Z 2 d  4.0: mu_i [1079, 1914] x 1.77 mu_sigma 1235 n_H/n_tot 0.935 MR(7T)-MR(2T) 2.45%
+NA 1e+18 4V eps_cap 50 Z 2 d 32.0: mu_i [30262, 15098] x 0.5 mu_sigma 27788 n_H/n_tot 0.961 MR(7T)-MR(2T) 0.53%
+NA 1e+18 5V eps_cap 24 Z 2 d  6.0: mu_i [1645, 2862] x 1.74 mu_sigma 1873 n_H/n_tot 0.940 MR(7T)-MR(2T) 2.65%
+NA 1e+18 5V eps_cap 24 Z 2 d  8.0: mu_i [2367, 4038] x 1.71 mu_sigma 2679 n_H/n_tot 0.944 MR(7T)-MR(2T) 2.33%
+NA 1e+18 5V eps_cap 24 Z 2 d 12.0: mu_i [4248, 6855] x 1.61 mu_sigma 4735 n_H/n_tot 0.956 MR(7T)-MR(2T) 1.23%
+NA 1e+18 5V eps_cap 24 Z 2 d 16.0: mu_i [6680, 9850] x 1.47 mu_sigma 7272 n_H/n_tot 0.972 MR(7T)-MR(2T) 0.49%
+NA 1e+18 5V eps_cap 38 Z 1 d  1.0: mu_i [1688, 3019] x 1.79 mu_sigma 1936 n_H/n_tot 0.933 MR(7T)-MR(2T) 2.93%
+NA 1e+18 5V eps_cap 38 Z 1 d  2.0: mu_i [2140, 3730] x 1.74 mu_sigma 2437 n_H/n_tot 0.939 MR(7T)-MR(2T) 2.60%
+NA 1e+18 5V eps_cap 24 Z 2 d 24.0: mu_i [13156, 14829] x 1.13 mu_sigma 13469 n_H/n_tot 0.998 MR(7T)-MR(2T) 0.02%
+NA 1e+18 5V eps_cap 24 Z 2 d 32.0: mu_i [21310, 18129] x 0.85 mu_sigma 20716 n_H/n_tot 0.996 MR(7T)-MR(2T) 0.02%
+NA 1e+18 5V eps_cap 38 Z 1 d  3.0: mu_i [2692, 4584] x 1.7 mu_sigma 3045 n_H/n_tot 0.945 MR(7T)-MR(2T) 2.17%
+NA 1e+18 5V eps_cap 38 Z 1 d  4.0: mu_i [3342, 5568] x 1.67 mu_sigma 3758 n_H/n_tot 0.949 MR(7T)-MR(2T) 1.73%
+NA 1e+18 5V eps_cap 38 Z 1 d  6.0: mu_i [4914, 7835] x 1.59 mu_sigma 5460 n_H/n_tot 0.958 MR(7T)-MR(2T) 0.99%
+NA 1e+18 5V eps_cap 38 Z 1 d  8.0: mu_i [6802, 10311] x 1.52 mu_sigma 7457 n_H/n_tot 0.967 MR(7T)-MR(2T) 0.53%
+NA 1e+18 5V eps_cap 38 Z 1 d 12.0: mu_i [11338, 15035] x 1.33 mu_sigma 12028 n_H/n_tot 0.986 MR(7T)-MR(2T) 0.12%
+NA 1e+18 5V eps_cap 38 Z 1 d 16.0: mu_i [16722, 18617] x 1.11 mu_sigma 17076 n_H/n_tot 0.998 MR(7T)-MR(2T) 0.01%
+NA 1e+18 5V eps_cap 38 Z 1 d 24.0: mu_i [29151, 22399] x 0.77 mu_sigma 27890 n_H/n_tot 0.991 MR(7T)-MR(2T) 0.04%
+NA 1e+18 5V eps_cap 38 Z 1 d 32.0: mu_i [41384, 24368] x 0.59 mu_sigma 38206 n_H/n_tot 0.971 MR(7T)-MR(2T) 0.14%
+NA 1e+18 5V eps_cap 38 Z 2 d  1.0: mu_i [858, 1576] x 1.84 mu_sigma 992 n_H/n_tot 0.926 MR(7T)-MR(2T) 2.36%
+NA 1e+18 5V eps_cap 38 Z 2 d  2.0: mu_i [1093, 1965] x 1.8 mu_sigma 1256 n_H/n_tot 0.932 MR(7T)-MR(2T) 2.60%
+NA 1e+18 5V eps_cap 50 Z 1 d  1.0: mu_i [2358, 4123] x 1.75 mu_sigma 2688 n_H/n_tot 0.939 MR(7T)-MR(2T) 2.54%
+NA 1e+18 5V eps_cap 38 Z 2 d  3.0: mu_i [1382, 2442] x 1.77 mu_sigma 1580 n_H/n_tot 0.936 MR(7T)-MR(2T) 2.71%
+NA 1e+18 5V eps_cap 50 Z 1 d  2.0: mu_i [2968, 5041] x 1.7 mu_sigma 3355 n_H/n_tot 0.945 MR(7T)-MR(2T) 2.02%
+NA 1e+18 5V eps_cap 38 Z 2 d  4.0: mu_i [1727, 3006] x 1.74 mu_sigma 1966 n_H/n_tot 0.940 MR(7T)-MR(2T) 2.66%
+NA 1e+18 5V eps_cap 50 Z 1 d  3.0: mu_i [3705, 6123] x 1.65 mu_sigma 4156 n_H/n_tot 0.951 MR(7T)-MR(2T) 1.54%
+NA 1e+18 5V eps_cap 38 Z 2 d  6.0: mu_i [2577, 4365] x 1.69 mu_sigma 2911 n_H/n_tot 0.946 MR(7T)-MR(2T) 2.18%
+NA 1e+18 5V eps_cap 50 Z 1 d  4.0: mu_i [4560, 7338] x 1.61 mu_sigma 5079 n_H/n_tot 0.957 MR(7T)-MR(2T) 1.12%
+NA 1e+18 5V eps_cap 38 Z 2 d  8.0: mu_i [3625, 5963] x 1.64 mu_sigma 4062 n_H/n_tot 0.952 MR(7T)-MR(2T) 1.54%
+NA 1e+18 5V eps_cap 50 Z 1 d  6.0: mu_i [6585, 10025] x 1.52 mu_sigma 7227 n_H/n_tot 0.967 MR(7T)-MR(2T) 0.56%
+NA 1e+18 5V eps_cap 38 Z 2 d 12.0: mu_i [6242, 9459] x 1.52 mu_sigma 6843 n_H/n_tot 0.968 MR(7T)-MR(2T) 0.60%
+NA 1e+18 5V eps_cap 50 Z 1 d  8.0: mu_i [8956, 12790] x 1.43 mu_sigma 9672 n_H/n_tot 0.977 MR(7T)-MR(2T) 0.27%
+NA 1e+18 5V eps_cap 38 Z 2 d 16.0: mu_i [9489, 12740] x 1.34 mu_sigma 10096 n_H/n_tot 0.984 MR(7T)-MR(2T) 0.18%
+NA 1e+18 5V eps_cap 50 Z 1 d 12.0: mu_i [14485, 17592] x 1.21 mu_sigma 15065 n_H/n_tot 0.994 MR(7T)-MR(2T) 0.04%
+NA 1e+18 5V eps_cap 38 Z 2 d 24.0: mu_i [17696, 17386] x 0.98 mu_sigma 17638 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 1e+18 5V eps_cap 50 Z 1 d 16.0: mu_i [20841, 20806] x 1.0 mu_sigma 20835 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 1e+18 5V eps_cap 38 Z 2 d 32.0: mu_i [27259, 20195] x 0.74 mu_sigma 25939 n_H/n_tot 0.989 MR(7T)-MR(2T) 0.07%
+NA 1e+18 5V eps_cap 50 Z 1 d 24.0: mu_i [34693, 23835] x 0.69 mu_sigma 32665 n_H/n_tot 0.983 MR(7T)-MR(2T) 0.07%
+NA 1e+18 5V eps_cap 50 Z 1 d 32.0: mu_i [47325, 25488] x 0.54 mu_sigma 43246 n_H/n_tot 0.963 MR(7T)-MR(2T) 0.17%
+NA 1e+18 5V eps_cap 50 Z 2 d  1.0: mu_i [1206, 2186] x 1.81 mu_sigma 1389 n_H/n_tot 0.930 MR(7T)-MR(2T) 2.84%
+NA 1e+18 5V eps_cap 50 Z 2 d  2.0: mu_i [1526, 2705] x 1.77 mu_sigma 1747 n_H/n_tot 0.935 MR(7T)-MR(2T) 2.81%
+NA 1e+18 5V eps_cap 50 Z 2 d  3.0: mu_i [1918, 3333] x 1.74 mu_sigma 2182 n_H/n_tot 0.940 MR(7T)-MR(2T) 2.63%
+NA 1e+18 7V eps_cap 24 Z 1 d  1.0: mu_i [627, 976, 900] x 1.55 mu_sigma 702 n_H/n_tot 0.961 MR(7T)-MR(2T) 0.80%
+NA 1e+18 5V eps_cap 50 Z 2 d  4.0: mu_i [2379, 4062] x 1.71 mu_sigma 2694 n_H/n_tot 0.944 MR(7T)-MR(2T) 2.33%
+NA 1e+18 5V eps_cap 50 Z 2 d  6.0: mu_i [3497, 5768] x 1.65 mu_sigma 3921 n_H/n_tot 0.951 MR(7T)-MR(2T) 1.61%
+NA 1e+18 7V eps_cap 24 Z 1 d  2.0: mu_i [824, 1231, 1034] x 1.49 mu_sigma 910 n_H/n_tot 0.968 MR(7T)-MR(2T) 0.90%
+NA 1e+18 5V eps_cap 50 Z 2 d  8.0: mu_i [4844, 7690] x 1.59 mu_sigma 5376 n_H/n_tot 0.959 MR(7T)-MR(2T) 1.00%
+NA 1e+18 5V eps_cap 50 Z 2 d 12.0: mu_i [8114, 11605] x 1.43 mu_sigma 8766 n_H/n_tot 0.976 MR(7T)-MR(2T) 0.32%
+NA 1e+18 5V eps_cap 50 Z 2 d 16.0: mu_i [12061, 14937] x 1.24 mu_sigma 12598 n_H/n_tot 0.992 MR(7T)-MR(2T) 0.07%
+NA 1e+18 7V eps_cap 24 Z 1 d  3.0: mu_i [1080, 1560, 1184] x 1.43 mu_sigma 1180 n_H/n_tot 0.973 MR(7T)-MR(2T) 0.96%
+NA 1e+18 5V eps_cap 50 Z 2 d 24.0: mu_i [21639, 19148] x 0.88 mu_sigma 21174 n_H/n_tot 0.998 MR(7T)-MR(2T) 0.01%
+NA 1e+18 5V eps_cap 50 Z 2 d 32.0: mu_i [32132, 21601] x 0.67 mu_sigma 30165 n_H/n_tot 0.982 MR(7T)-MR(2T) 0.10%
+NA 1e+18 7V eps_cap 24 Z 1 d  4.0: mu_i [1402, 1967, 1342] x 1.39 mu_sigma 1519 n_H/n_tot 0.978 MR(7T)-MR(2T) 0.96%
+NA 1e+18 7V eps_cap 24 Z 1 d  6.0: mu_i [2264, 3030, 1661] x 1.32 mu_sigma 2420 n_H/n_tot 0.983 MR(7T)-MR(2T) 0.83%
+NA 1e+18 7V eps_cap 38 Z 1 d  1.0: mu_i [1036, 1586, 1172] x 1.52 mu_sigma 1151 n_H/n_tot 0.964 MR(7T)-MR(2T) 1.28%
+NA 1e+18 7V eps_cap 24 Z 1 d  8.0: mu_i [3437, 4429, 1943] x 1.27 mu_sigma 3634 n_H/n_tot 0.986 MR(7T)-MR(2T) 0.66%
+NA 1e+18 7V eps_cap 38 Z 1 d  2.0: mu_i [1349, 1985, 1322] x 1.46 mu_sigma 1482 n_H/n_tot 0.971 MR(7T)-MR(2T) 1.25%
+NA 1e+18 7V eps_cap 24 Z 1 d 12.0: mu_i [6746, 8118, 2307] x 1.18 mu_sigma 7001 n_H/n_tot 0.991 MR(7T)-MR(2T) 0.66%
+NA 1e+18 7V eps_cap 38 Z 1 d  3.0: mu_i [1754, 2491, 1483] x 1.4 mu_sigma 1905 n_H/n_tot 0.976 MR(7T)-MR(2T) 1.14%
+NA 1e+18 7V eps_cap 24 Z 1 d 16.0: mu_i [11279, 12544, 2404] x 1.08 mu_sigma 11482 n_H/n_tot 0.994 MR(7T)-MR(2T) 1.15%
+NA 1e+18 7V eps_cap 38 Z 1 d  4.0: mu_i [2255, 3107, 1648] x 1.36 mu_sigma 2428 n_H/n_tot 0.979 MR(7T)-MR(2T) 0.99%
+NA 1e+18 7V eps_cap 24 Z 1 d 24.0: mu_i [23197, 20612, 2222] x 0.86 mu_sigma 22515 n_H/n_tot 0.992 MR(7T)-MR(2T) 3.08%
+NA 1e+18 7V eps_cap 38 Z 1 d  6.0: mu_i [3565, 4666, 1957] x 1.28 mu_sigma 3783 n_H/n_tot 0.985 MR(7T)-MR(2T) 0.72%
+NA 1e+18 7V eps_cap 24 Z 1 d 32.0: mu_i [36780, 25536, 2098] x 0.67 mu_sigma 34199 n_H/n_tot 0.977 MR(7T)-MR(2T) 5.32%
+NA 1e+18 7V eps_cap 38 Z 1 d  8.0: mu_i [5289, 6621, 2204] x 1.23 mu_sigma 5546 n_H/n_tot 0.988 MR(7T)-MR(2T) 0.62%
+NA 1e+18 7V eps_cap 24 Z 2 d  1.0: mu_i [315, 495, 541] x 1.57 mu_sigma 354 n_H/n_tot 0.958 MR(7T)-MR(2T) 0.28%
+NA 1e+18 7V eps_cap 38 Z 1 d 12.0: mu_i [9909, 11346, 2457] x 1.12 mu_sigma 10157 n_H/n_tot 0.993 MR(7T)-MR(2T) 0.95%
+NA 1e+18 7V eps_cap 24 Z 2 d  2.0: mu_i [415, 627, 633] x 1.51 mu_sigma 460 n_H/n_tot 0.965 MR(7T)-MR(2T) 0.36%
+NA 1e+18 7V eps_cap 38 Z 1 d 16.0: mu_i [15870, 16304, 2453] x 1.0 mu_sigma 15868 n_H/n_tot 0.995 MR(7T)-MR(2T) 1.76%
+NA 1e+18 7V eps_cap 24 Z 2 d  3.0: mu_i [545, 797, 739] x 1.46 mu_sigma 599 n_H/n_tot 0.971 MR(7T)-MR(2T) 0.45%
+NA 1e+18 7V eps_cap 38 Z 1 d 24.0: mu_i [30383, 23746, 2224] x 0.76 mu_sigma 28807 n_H/n_tot 0.986 MR(7T)-MR(2T) 4.14%
+NA 1e+18 7V eps_cap 24 Z 2 d  4.0: mu_i [709, 1010, 855] x 1.42 mu_sigma 773 n_H/n_tot 0.976 MR(7T)-MR(2T) 0.55%
+NA 1e+18 7V eps_cap 38 Z 1 d 32.0: mu_i [45524, 27733, 2137] x 0.59 mu_sigma 41519 n_H/n_tot 0.965 MR(7T)-MR(2T) 6.52%
+NA 1e+18 7V eps_cap 24 Z 2 d  6.0: mu_i [1152, 1575, 1103] x 1.35 mu_sigma 1240 n_H/n_tot 0.981 MR(7T)-MR(2T) 0.71%
+NA 1e+18 7V eps_cap 38 Z 2 d  1.0: mu_i [522, 811, 748] x 1.55 mu_sigma 584 n_H/n_tot 0.961 MR(7T)-MR(2T) 0.60%
+NA 1e+18 7V eps_cap 24 Z 2 d  8.0: mu_i [1763, 2340, 1345] x 1.31 mu_sigma 1881 n_H/n_tot 0.984 MR(7T)-MR(2T) 0.75%
+NA 1e+18 7V eps_cap 38 Z 2 d  2.0: mu_i [682, 1019, 860] x 1.49 mu_sigma 753 n_H/n_tot 0.968 MR(7T)-MR(2T) 0.71%
+NA 1e+18 7V eps_cap 24 Z 2 d 12.0: mu_i [3533, 4501, 1728] x 1.25 mu_sigma 3723 n_H/n_tot 0.987 MR(7T)-MR(2T) 0.67%
+NA 1e+18 7V eps_cap 38 Z 2 d  3.0: mu_i [888, 1286, 985] x 1.44 mu_sigma 972 n_H/n_tot 0.973 MR(7T)-MR(2T) 0.80%
+NA 1e+18 7V eps_cap 24 Z 2 d 16.0: mu_i [6064, 7448, 1930] x 1.2 mu_sigma 6324 n_H/n_tot 0.989 MR(7T)-MR(2T) 0.76%
+NA 1e+18 7V eps_cap 38 Z 2 d  4.0: mu_i [1146, 1616, 1119] x 1.4 mu_sigma 1244 n_H/n_tot 0.977 MR(7T)-MR(2T) 0.86%
+NA 1e+18 7V eps_cap 24 Z 2 d 24.0: mu_i [13239, 14476, 1935] x 1.06 mu_sigma 13420 n_H/n_tot 0.994 MR(7T)-MR(2T) 1.82%
+NA 1e+18 7V eps_cap 38 Z 2 d  6.0: mu_i [1828, 2470, 1387] x 1.33 mu_sigma 1959 n_H/n_tot 0.982 MR(7T)-MR(2T) 0.86%
+NA 1e+18 7V eps_cap 24 Z 2 d 32.0: mu_i [22543, 20354, 1846] x 0.88 mu_sigma 21945 n_H/n_tot 0.993 MR(7T)-MR(2T) 3.48%
+NA 1e+18 7V eps_cap 38 Z 2 d  8.0: mu_i [2741, 3589, 1629] x 1.29 mu_sigma 2910 n_H/n_tot 0.985 MR(7T)-MR(2T) 0.75%
+NA 1e+18 7V eps_cap 38 Z 2 d 12.0: mu_i [5273, 6561, 1961] x 1.22 mu_sigma 5519 n_H/n_tot 0.988 MR(7T)-MR(2T) 0.69%
+NA 1e+18 7V eps_cap 38 Z 2 d 16.0: mu_i [8701, 10252, 2081] x 1.15 mu_sigma 8979 n_H/n_tot 0.991 MR(7T)-MR(2T) 1.01%
+NA 1e+18 7V eps_cap 38 Z 2 d 24.0: mu_i [17788, 17706, 1989] x 0.97 mu_sigma 17663 n_H/n_tot 0.995 MR(7T)-MR(2T) 2.52%
+NA 1e+18 7V eps_cap 38 Z 2 d 32.0: mu_i [28770, 22949, 1908] x 0.77 mu_sigma 27373 n_H/n_tot 0.987 MR(7T)-MR(2T) 4.41%
+NA 1e+18 7V eps_cap 50 Z 1 d  1.0: mu_i [1459, 2205, 1373] x 1.49 mu_sigma 1614 n_H/n_tot 0.966 MR(7T)-MR(2T) 1.50%
+NA 1e+18 7V eps_cap 50 Z 1 d  2.0: mu_i [1891, 2743, 1528] x 1.43 mu_sigma 2066 n_H/n_tot 0.972 MR(7T)-MR(2T) 1.31%
+NA 1e+18 8V eps_cap 24 Z 1 d  1.0: mu_i [449, 729, 1132] x 1.74 mu_sigma 530 n_H/n_tot 0.920 MR(7T)-MR(2T) 1.20%
+NA 1e+18 7V eps_cap 50 Z 1 d  3.0: mu_i [2442, 3417, 1692] x 1.38 mu_sigma 2640 n_H/n_tot 0.977 MR(7T)-MR(2T) 1.09%
+NA 1e+18 8V eps_cap 24 Z 1 d  2.0: mu_i [605, 939, 1392] x 1.65 mu_sigma 700 n_H/n_tot 0.936 MR(7T)-MR(2T) 1.36%
+NA 1e+18 7V eps_cap 50 Z 1 d  4.0: mu_i [3119, 4225, 1855] x 1.33 mu_sigma 3341 n_H/n_tot 0.981 MR(7T)-MR(2T) 0.89%
+NA 1e+18 8V eps_cap 24 Z 1 d  3.0: mu_i [817, 1221, 1735] x 1.57 mu_sigma 931 n_H/n_tot 0.948 MR(7T)-MR(2T) 1.49%
+NA 1e+18 7V eps_cap 50 Z 1 d  6.0: mu_i [4857, 6218, 2146] x 1.25 mu_sigma 5122 n_H/n_tot 0.986 MR(7T)-MR(2T) 0.66%
+NA 1e+18 8V eps_cap 24 Z 1 d  4.0: mu_i [1095, 1585, 2164] x 1.51 mu_sigma 1232 n_H/n_tot 0.957 MR(7T)-MR(2T) 1.55%
+NA 1e+18 7V eps_cap 50 Z 1 d  8.0: mu_i [7089, 8620, 2360] x 1.19 mu_sigma 7376 n_H/n_tot 0.990 MR(7T)-MR(2T) 0.69%
+NA 1e+18 8V eps_cap 24 Z 1 d  6.0: mu_i [1874, 2584, 3275] x 1.43 mu_sigma 2068 n_H/n_tot 0.971 MR(7T)-MR(2T) 1.34%
+NA 1e+18 7V eps_cap 50 Z 1 d 12.0: mu_i [12855, 14019, 2530] x 1.06 mu_sigma 13027 n_H/n_tot 0.994 MR(7T)-MR(2T) 1.29%
+NA 1e+18 8V eps_cap 24 Z 1 d  8.0: mu_i [2987, 3960, 4662] x 1.36 mu_sigma 3245 n_H/n_tot 0.979 MR(7T)-MR(2T) 0.90%
+NA 1e+18 7V eps_cap 50 Z 1 d 16.0: mu_i [19987, 19104, 2467] x 0.93 mu_sigma 19683 n_H/n_tot 0.994 MR(7T)-MR(2T) 2.32%
+NA 1e+18 8V eps_cap 24 Z 1 d 12.0: mu_i [6286, 7755, 7716] x 1.23 mu_sigma 6641 n_H/n_tot 0.991 MR(7T)-MR(2T) 0.23%
+NA 1e+18 7V eps_cap 50 Z 1 d 24.0: mu_i [36387, 25772, 2232] x 0.69 mu_sigma 33941 n_H/n_tot 0.978 MR(7T)-MR(2T) 4.99%
+NA 1e+18 8V eps_cap 24 Z 1 d 16.0: mu_i [11044, 12586, 10175] x 1.11 mu_sigma 11345 n_H/n_tot 0.997 MR(7T)-MR(2T) 0.04%
+NA 1e+18 7V eps_cap 50 Z 1 d 32.0: mu_i [52362, 29146, 2171] x 0.54 mu_sigma 47180 n_H/n_tot 0.956 MR(7T)-MR(2T) 7.41%
+NA 1e+18 8V eps_cap 24 Z 1 d 24.0: mu_i [24453, 23399, 11844] x 0.9 mu_sigma 23840 n_H/n_tot 0.992 MR(7T)-MR(2T) 0.21%
+NA 1e+18 7V eps_cap 50 Z 2 d  1.0: mu_i [738, 1135, 917] x 1.53 mu_sigma 822 n_H/n_tot 0.963 MR(7T)-MR(2T) 0.93%
+NA 1e+18 8V eps_cap 24 Z 1 d 32.0: mu_i [40849, 32909, 11601] x 0.74 mu_sigma 38262 n_H/n_tot 0.978 MR(7T)-MR(2T) 0.69%
+NA 1e+18 7V eps_cap 50 Z 2 d  2.0: mu_i [959, 1421, 1042] x 1.47 mu_sigma 1056 n_H/n_tot 0.969 MR(7T)-MR(2T) 1.00%
+NA 1e+18 8V eps_cap 24 Z 2 d  1.0: mu_i [225, 368, 590] x 1.76 mu_sigma 267 n_H/n_tot 0.914 MR(7T)-MR(2T) 0.43%
+NA 1e+18 7V eps_cap 50 Z 2 d  3.0: mu_i [1243, 1784, 1179] x 1.42 mu_sigma 1355 n_H/n_tot 0.974 MR(7T)-MR(2T) 1.03%
+NA 1e+18 8V eps_cap 24 Z 2 d  2.0: mu_i [304, 475, 730] x 1.67 mu_sigma 353 n_H/n_tot 0.930 MR(7T)-MR(2T) 0.54%
+NA 1e+18 7V eps_cap 50 Z 2 d  4.0: mu_i [1594, 2226, 1321] x 1.38 mu_sigma 1724 n_H/n_tot 0.978 MR(7T)-MR(2T) 1.00%
+NA 1e+18 8V eps_cap 24 Z 2 d  3.0: mu_i [411, 619, 918] x 1.6 mu_sigma 471 n_H/n_tot 0.943 MR(7T)-MR(2T) 0.69%
+NA 1e+18 7V eps_cap 50 Z 2 d  6.0: mu_i [2509, 3353, 1595] x 1.31 mu_sigma 2678 n_H/n_tot 0.983 MR(7T)-MR(2T) 0.85%
+NA 1e+18 8V eps_cap 24 Z 2 d  4.0: mu_i [552, 807, 1157] x 1.54 mu_sigma 625 n_H/n_tot 0.952 MR(7T)-MR(2T) 0.86%
+NA 1e+18 7V eps_cap 50 Z 2 d  8.0: mu_i [3710, 4788, 1828] x 1.27 mu_sigma 3922 n_H/n_tot 0.986 MR(7T)-MR(2T) 0.71%
+NA 1e+18 8V eps_cap 24 Z 2 d  6.0: mu_i [950, 1329, 1800] x 1.46 mu_sigma 1057 n_H/n_tot 0.964 MR(7T)-MR(2T) 1.15%
+NA 1e+18 7V eps_cap 50 Z 2 d 12.0: mu_i [6936, 8414, 2108] x 1.18 mu_sigma 7211 n_H/n_tot 0.990 MR(7T)-MR(2T) 0.78%
+NA 1e+18 8V eps_cap 24 Z 2 d  8.0: mu_i [1524, 2068, 2658] x 1.41 mu_sigma 1674 n_H/n_tot 0.972 MR(7T)-MR(2T) 1.20%
+NA 1e+18 7V eps_cap 50 Z 2 d 16.0: mu_i [11144, 12578, 2168] x 1.1 mu_sigma 11381 n_H/n_tot 0.993 MR(7T)-MR(2T) 1.30%
+NA 1e+18 8V eps_cap 24 Z 2 d 12.0: mu_i [3259, 4216, 4841] x 1.32 mu_sigma 3511 n_H/n_tot 0.983 MR(7T)-MR(2T) 0.71%
+NA 1e+18 7V eps_cap 50 Z 2 d 24.0: mu_i [21787, 19997, 2025] x 0.89 mu_sigma 21278 n_H/n_tot 0.993 MR(7T)-MR(2T) 3.12%
+NA 1e+18 8V eps_cap 24 Z 2 d 16.0: mu_i [5831, 7209, 7141] x 1.23 mu_sigma 6164 n_H/n_tot 0.991 MR(7T)-MR(2T) 0.25%
+NA 1e+18 7V eps_cap 50 Z 2 d 32.0: mu_i [33972, 24679, 1958] x 0.71 mu_sigma 31816 n_H/n_tot 0.980 MR(7T)-MR(2T) 5.15%
+NA 1e+18 8V eps_cap 24 Z 2 d 24.0: mu_i [13510, 15207, 10045] x 1.08 mu_sigma 13763 n_H/n_tot 0.995 MR(7T)-MR(2T) 0.08%
+NA 1e+18 8V eps_cap 24 Z 2 d 32.0: mu_i [24024, 24282, 10605] x 0.94 mu_sigma 23664 n_H/n_tot 0.990 MR(7T)-MR(2T) 0.34%
+NA 1e+18 8V eps_cap 38 Z 1 d  1.0: mu_i [742, 1192, 1764] x 1.7 mu_sigma 869 n_H/n_tot 0.928 MR(7T)-MR(2T) 1.97%
+NA 1e+18 8V eps_cap 38 Z 1 d  2.0: mu_i [992, 1522, 2147] x 1.61 mu_sigma 1140 n_H/n_tot 0.943 MR(7T)-MR(2T) 1.97%
+NA 1e+18 8V eps_cap 38 Z 1 d  3.0: mu_i [1328, 1961, 2638] x 1.54 mu_sigma 1503 n_H/n_tot 0.955 MR(7T)-MR(2T) 1.87%
+NA 1e+18 8V eps_cap 38 Z 1 d  4.0: mu_i [1760, 2517, 3235] x 1.48 mu_sigma 1966 n_H/n_tot 0.964 MR(7T)-MR(2T) 1.64%
+NA 1e+18 8V eps_cap 38 Z 1 d  6.0: mu_i [2944, 3995, 4696] x 1.39 mu_sigma 3221 n_H/n_tot 0.976 MR(7T)-MR(2T) 1.04%
+NA 1e+18 8V eps_cap 38 Z 1 d  8.0: mu_i [4579, 5942, 6369] x 1.31 mu_sigma 4923 n_H/n_tot 0.985 MR(7T)-MR(2T) 0.52%
+NA 1e+18 8V eps_cap 38 Z 1 d 12.0: mu_i [9194, 10935, 9512] x 1.17 mu_sigma 9573 n_H/n_tot 0.995 MR(7T)-MR(2T) 0.08%
+NA 1e+18 8V eps_cap 50 Z 1 d  1.0: mu_i [1047, 1666, 2363] x 1.68 mu_sigma 1219 n_H/n_tot 0.934 MR(7T)-MR(2T) 2.41%
+NA 1e+18 8V eps_cap 38 Z 1 d 16.0: mu_i [15498, 16737, 11458] x 1.04 mu_sigma 15636 n_H/n_tot 0.997 MR(7T)-MR(2T) 0.05%
+NA 1e+18 8V eps_cap 50 Z 1 d  2.0: mu_i [1392, 2116, 2849] x 1.59 mu_sigma 1590 n_H/n_tot 0.948 MR(7T)-MR(2T) 2.17%
+NA 1e+18 8V eps_cap 38 Z 1 d 24.0: mu_i [31995, 28133, 12084] x 0.82 mu_sigma 30561 n_H/n_tot 0.986 MR(7T)-MR(2T) 0.38%
+NA 1e+18 8V eps_cap 50 Z 1 d  3.0: mu_i [1851, 2706, 3461] x 1.51 mu_sigma 2082 n_H/n_tot 0.960 MR(7T)-MR(2T) 1.83%
+NA 1e+18 8V eps_cap 38 Z 1 d 32.0: mu_i [50616, 36880, 11688] x 0.67 mu_sigma 46500 n_H/n_tot 0.969 MR(7T)-MR(2T) 0.94%
+NA 1e+18 8V eps_cap 50 Z 1 d  4.0: mu_i [2436, 3444, 4186] x 1.45 mu_sigma 2704 n_H/n_tot 0.968 MR(7T)-MR(2T) 1.43%
+NA 1e+18 8V eps_cap 38 Z 2 d  1.0: mu_i [373, 605, 940] x 1.73 mu_sigma 440 n_H/n_tot 0.920 MR(7T)-MR(2T) 0.90%
+NA 1e+18 8V eps_cap 50 Z 1 d  6.0: mu_i [4011, 5360, 5881] x 1.35 mu_sigma 4355 n_H/n_tot 0.981 MR(7T)-MR(2T) 0.72%
+NA 1e+18 8V eps_cap 38 Z 2 d  2.0: mu_i [500, 775, 1155] x 1.65 mu_sigma 578 n_H/n_tot 0.935 MR(7T)-MR(2T) 1.06%
+NA 1e+18 8V eps_cap 50 Z 1 d  8.0: mu_i [6135, 7800, 7689] x 1.27 mu_sigma 6536 n_H/n_tot 0.988 MR(7T)-MR(2T) 0.30%
+NA 1e+18 8V eps_cap 38 Z 2 d  3.0: mu_i [670, 1002, 1438] x 1.58 mu_sigma 764 n_H/n_tot 0.947 MR(7T)-MR(2T) 1.23%
+NA 1e+18 8V eps_cap 50 Z 1 d 12.0: mu_i [11935, 13723, 10678] x 1.12 mu_sigma 12276 n_H/n_tot 0.996 MR(7T)-MR(2T) 0.05%
+NA 1e+18 8V eps_cap 38 Z 2 d  4.0: mu_i [891, 1294, 1790] x 1.52 mu_sigma 1004 n_H/n_tot 0.956 MR(7T)-MR(2T) 1.36%
+NA 1e+18 8V eps_cap 50 Z 1 d 16.0: mu_i [19559, 20131, 12139] x 0.98 mu_sigma 19451 n_H/n_tot 0.995 MR(7T)-MR(2T) 0.09%
+NA 1e+18 8V eps_cap 38 Z 2 d  6.0: mu_i [1501, 2084, 2699] x 1.44 mu_sigma 1661 n_H/n_tot 0.968 MR(7T)-MR(2T) 1.37%
+NA 1e+18 8V eps_cap 50 Z 1 d 24.0: mu_i [38444, 31526, 12170] x 0.76 mu_sigma 36165 n_H/n_tot 0.980 MR(7T)-MR(2T) 0.52%
+NA 1e+18 8V eps_cap 38 Z 2 d  8.0: mu_i [2353, 3161, 3838] x 1.38 mu_sigma 2570 n_H/n_tot 0.976 MR(7T)-MR(2T) 1.09%
+NA 1e+18 8V eps_cap 50 Z 1 d 32.0: mu_i [58489, 39552, 11766] x 0.62 mu_sigma 53029 n_H/n_tot 0.961 MR(7T)-MR(2T) 1.14%
+NA 1e+18 8V eps_cap 38 Z 2 d 12.0: mu_i [4816, 6117, 6423] x 1.28 mu_sigma 5142 n_H/n_tot 0.988 MR(7T)-MR(2T) 0.41%
+NA 1e+18 8V eps_cap 50 Z 2 d  1.0: mu_i [527, 849, 1287] x 1.72 mu_sigma 619 n_H/n_tot 0.924 MR(7T)-MR(2T) 1.38%
+NA 1e+18 8V eps_cap 38 Z 2 d 16.0: mu_i [8288, 9952, 8696] x 1.18 mu_sigma 8653 n_H/n_tot 0.994 MR(7T)-MR(2T) 0.11%
+NA 1e+18 8V eps_cap 50 Z 2 d  2.0: mu_i [703, 1083, 1571] x 1.63 mu_sigma 810 n_H/n_tot 0.939 MR(7T)-MR(2T) 1.52%
+NA 1e+18 8V eps_cap 38 Z 2 d 24.0: mu_i [18012, 19209, 10756] x 1.01 mu_sigma 18042 n_H/n_tot 0.994 MR(7T)-MR(2T) 0.14%
+NA 1e+18 8V eps_cap 50 Z 2 d  3.0: mu_i [937, 1394, 1939] x 1.56 mu_sigma 1065 n_H/n_tot 0.951 MR(7T)-MR(2T) 1.60%
+NA 1e+18 8V eps_cap 38 Z 2 d 32.0: mu_i [30483, 28381, 10850] x 0.86 mu_sigma 29431 n_H/n_tot 0.987 MR(7T)-MR(2T) 0.52%
+NA 5e+19 4V eps_cap 24 Z 1 d  1.0: mu_i [623] x None mu_sigma 623 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 24 Z 1 d  2.0: mu_i [736] x None mu_sigma 736 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 24 Z 1 d  3.0: mu_i [853] x None mu_sigma 853 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 24 Z 1 d  4.0: mu_i [965] x None mu_sigma 965 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 24 Z 1 d  6.0: mu_i [1159] x None mu_sigma 1159 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 24 Z 1 d  8.0: mu_i [1308] x None mu_sigma 1308 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 24 Z 1 d 12.0: mu_i [1499] x None mu_sigma 1499 n_H/n_tot 1.000 MR(7T)-MR(2T) -0.00%
+NA 5e+19 4V eps_cap 24 Z 1 d 16.0: mu_i [1608] x None mu_sigma 1608 n_H/n_tot 1.000 MR(7T)-MR(2T) -0.00%
+NA 5e+19 4V eps_cap 24 Z 1 d 24.0: mu_i [1717] x None mu_sigma 1717 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 24 Z 1 d 32.0: mu_i [1765] x None mu_sigma 1765 n_H/n_tot 1.000 MR(7T)-MR(2T) -0.00%
+NA 5e+19 4V eps_cap 24 Z 2 d  1.0: mu_i [375] x None mu_sigma 375 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 24 Z 2 d  2.0: mu_i [461] x None mu_sigma 461 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 24 Z 2 d  3.0: mu_i [556] x None mu_sigma 556 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 24 Z 2 d  4.0: mu_i [655] x None mu_sigma 655 n_H/n_tot 1.000 MR(7T)-MR(2T) -0.00%
+NA 1e+18 8V eps_cap 50 Z 2 d  4.0: mu_i [1238, 1786, 2390] x 1.51 mu_sigma 1390 n_H/n_tot 0.959 MR(7T)-MR(2T) 1.60%
+NA 5e+19 4V eps_cap 24 Z 2 d  6.0: mu_i [848] x None mu_sigma 848 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 24 Z 2 d  8.0: mu_i [1016] x None mu_sigma 1016 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 24 Z 2 d 12.0: mu_i [1268] x None mu_sigma 1268 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 24 Z 2 d 16.0: mu_i [1432] x None mu_sigma 1432 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 24 Z 2 d 24.0: mu_i [1615] x None mu_sigma 1615 n_H/n_tot 1.000 MR(7T)-MR(2T) -0.00%
+NA 5e+19 4V eps_cap 24 Z 2 d 32.0: mu_i [1703] x None mu_sigma 1703 n_H/n_tot 1.000 MR(7T)-MR(2T) -0.00%
+NA 5e+19 4V eps_cap 38 Z 1 d  1.0: mu_i [878] x None mu_sigma 878 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 38 Z 1 d  2.0: mu_i [1008] x None mu_sigma 1008 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 38 Z 1 d  3.0: mu_i [1135] x None mu_sigma 1135 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 38 Z 1 d  4.0: mu_i [1251] x None mu_sigma 1251 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 38 Z 1 d  6.0: mu_i [1441] x None mu_sigma 1441 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 38 Z 1 d  8.0: mu_i [1578] x None mu_sigma 1578 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 38 Z 1 d 12.0: mu_i [1748] x None mu_sigma 1748 n_H/n_tot 1.000 MR(7T)-MR(2T) -0.00%
+NA 5e+19 4V eps_cap 38 Z 1 d 16.0: mu_i [1842] x None mu_sigma 1842 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 38 Z 1 d 24.0: mu_i [1936] x None mu_sigma 1936 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 38 Z 1 d 32.0: mu_i [1979] x None mu_sigma 1979 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 38 Z 2 d  1.0: mu_i [559] x None mu_sigma 559 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 38 Z 2 d  2.0: mu_i [669] x None mu_sigma 669 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 38 Z 2 d  3.0: mu_i [786] x None mu_sigma 786 n_H/n_tot 1.000 MR(7T)-MR(2T) -0.00%
+NA 5e+19 4V eps_cap 38 Z 2 d  4.0: mu_i [902] x None mu_sigma 902 n_H/n_tot 1.000 MR(7T)-MR(2T) -0.00%
+NA 5e+19 4V eps_cap 38 Z 2 d  6.0: mu_i [1114] x None mu_sigma 1114 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 1e+18 8V eps_cap 50 Z 2 d  6.0: mu_i [2055, 2832, 3516] x 1.42 mu_sigma 2265 n_H/n_tot 0.972 MR(7T)-MR(2T) 1.31%
+NA 5e+19 4V eps_cap 38 Z 2 d  8.0: mu_i [1286] x None mu_sigma 1286 n_H/n_tot 1.000 MR(7T)-MR(2T) -0.00%
+NA 5e+19 4V eps_cap 38 Z 2 d 12.0: mu_i [1527] x None mu_sigma 1527 n_H/n_tot 1.000 MR(7T)-MR(2T) -0.00%
+NA 5e+19 4V eps_cap 38 Z 2 d 16.0: mu_i [1677] x None mu_sigma 1677 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 38 Z 2 d 24.0: mu_i [1840] x None mu_sigma 1840 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 38 Z 2 d 32.0: mu_i [1919] x None mu_sigma 1919 n_H/n_tot 1.000 MR(7T)-MR(2T) -0.00%
+NA 5e+19 4V eps_cap 50 Z 1 d  1.0: mu_i [1082] x None mu_sigma 1082 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 50 Z 1 d  2.0: mu_i [1218] x None mu_sigma 1218 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 50 Z 1 d  3.0: mu_i [1345] x None mu_sigma 1345 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 50 Z 1 d  4.0: mu_i [1458] x None mu_sigma 1458 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 50 Z 1 d  6.0: mu_i [1636] x None mu_sigma 1636 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 50 Z 1 d  8.0: mu_i [1760] x None mu_sigma 1760 n_H/n_tot 1.000 MR(7T)-MR(2T) -0.00%
+NA 5e+19 4V eps_cap 50 Z 1 d 12.0: mu_i [1910] x None mu_sigma 1910 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 50 Z 1 d 16.0: mu_i [1992] x None mu_sigma 1992 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 50 Z 1 d 24.0: mu_i [2074] x None mu_sigma 2074 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 50 Z 1 d 32.0: mu_i [2112] x None mu_sigma 2112 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 50 Z 2 d  1.0: mu_i [721] x None mu_sigma 721 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 50 Z 2 d  2.0: mu_i [847] x None mu_sigma 847 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 50 Z 2 d  3.0: mu_i [975] x None mu_sigma 975 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 50 Z 2 d  4.0: mu_i [1098] x None mu_sigma 1098 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 50 Z 2 d  6.0: mu_i [1313] x None mu_sigma 1313 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 50 Z 2 d  8.0: mu_i [1481] x None mu_sigma 1481 n_H/n_tot 1.000 MR(7T)-MR(2T) -0.00%
+NA 5e+19 4V eps_cap 50 Z 2 d 12.0: mu_i [1705] x None mu_sigma 1705 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 50 Z 2 d 16.0: mu_i [1841] x None mu_sigma 1841 n_H/n_tot 1.000 MR(7T)-MR(2T) -0.00%
+NA 5e+19 4V eps_cap 50 Z 2 d 24.0: mu_i [1986] x None mu_sigma 1986 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 4V eps_cap 50 Z 2 d 32.0: mu_i [2056] x None mu_sigma 2056 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 1e+18 8V eps_cap 50 Z 2 d  8.0: mu_i [3174, 4219, 4858] x 1.35 mu_sigma 3448 n_H/n_tot 0.980 MR(7T)-MR(2T) 0.86%
+NA 5e+19 5V eps_cap 24 Z 1 d  1.0: mu_i [629] x None mu_sigma 629 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 24 Z 1 d  2.0: mu_i [769] x None mu_sigma 769 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 24 Z 1 d  3.0: mu_i [918] x None mu_sigma 918 n_H/n_tot 1.000 MR(7T)-MR(2T) -0.00%
+NA 5e+19 5V eps_cap 24 Z 1 d  4.0: mu_i [1066] x None mu_sigma 1066 n_H/n_tot 1.000 MR(7T)-MR(2T) -0.00%
+NA 5e+19 5V eps_cap 24 Z 1 d  6.0: mu_i [1333] x None mu_sigma 1333 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 24 Z 1 d  8.0: mu_i [1544] x None mu_sigma 1544 n_H/n_tot 1.000 MR(7T)-MR(2T) -0.00%
+NA 5e+19 5V eps_cap 24 Z 1 d 12.0: mu_i [1826] x None mu_sigma 1826 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 24 Z 1 d 16.0: mu_i [1992] x None mu_sigma 1992 n_H/n_tot 1.000 MR(7T)-MR(2T) -0.00%
+NA 5e+19 5V eps_cap 24 Z 1 d 24.0: mu_i [2162] x None mu_sigma 2162 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 24 Z 1 d 32.0: mu_i [2238] x None mu_sigma 2238 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 24 Z 2 d  1.0: mu_i [363] x None mu_sigma 363 n_H/n_tot 1.000 MR(7T)-MR(2T) -0.00%
+NA 5e+19 5V eps_cap 24 Z 2 d  2.0: mu_i [460] x None mu_sigma 460 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 24 Z 2 d  3.0: mu_i [571] x None mu_sigma 571 n_H/n_tot 1.000 MR(7T)-MR(2T) -0.00%
+NA 5e+19 5V eps_cap 24 Z 2 d  4.0: mu_i [690] x None mu_sigma 690 n_H/n_tot 1.000 MR(7T)-MR(2T) -0.00%
+NA 5e+19 5V eps_cap 24 Z 2 d  6.0: mu_i [931] x None mu_sigma 931 n_H/n_tot 1.000 MR(7T)-MR(2T) -0.00%
+NA 5e+19 5V eps_cap 24 Z 2 d  8.0: mu_i [1151] x None mu_sigma 1151 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 24 Z 2 d 12.0: mu_i [1495] x None mu_sigma 1495 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 24 Z 2 d 16.0: mu_i [1732] x None mu_sigma 1732 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 24 Z 2 d 24.0: mu_i [2006] x None mu_sigma 2006 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 24 Z 2 d 32.0: mu_i [2141] x None mu_sigma 2141 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 1e+18 8V eps_cap 50 Z 2 d 12.0: mu_i [6309, 7865, 7629] x 1.24 mu_sigma 6680 n_H/n_tot 0.990 MR(7T)-MR(2T) 0.24%
+NA 5e+19 5V eps_cap 38 Z 1 d  1.0: mu_i [913] x None mu_sigma 913 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 38 Z 1 d  2.0: mu_i [1083] x None mu_sigma 1083 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 38 Z 1 d  3.0: mu_i [1254] x None mu_sigma 1254 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 38 Z 1 d  4.0: mu_i [1415] x None mu_sigma 1415 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 38 Z 1 d  6.0: mu_i [1687] x None mu_sigma 1687 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 38 Z 1 d  8.0: mu_i [1889] x None mu_sigma 1889 n_H/n_tot 1.000 MR(7T)-MR(2T) -0.00%
+NA 5e+19 5V eps_cap 38 Z 1 d 12.0: mu_i [2145] x None mu_sigma 2145 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 38 Z 1 d 16.0: mu_i [2291] x None mu_sigma 2291 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 38 Z 1 d 24.0: mu_i [2440] x None mu_sigma 2440 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 38 Z 1 d 32.0: mu_i [2507] x None mu_sigma 2507 n_H/n_tot 1.000 MR(7T)-MR(2T) -0.00%
+NA 5e+19 5V eps_cap 38 Z 2 d  1.0: mu_i [553] x None mu_sigma 553 n_H/n_tot 1.000 MR(7T)-MR(2T) -0.00%
+NA 5e+19 5V eps_cap 38 Z 2 d  2.0: mu_i [683] x None mu_sigma 683 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 38 Z 2 d  3.0: mu_i [825] x None mu_sigma 825 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 38 Z 2 d  4.0: mu_i [971] x None mu_sigma 971 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 38 Z 2 d  6.0: mu_i [1247] x None mu_sigma 1247 n_H/n_tot 1.000 MR(7T)-MR(2T) -0.00%
+NA 5e+19 5V eps_cap 38 Z 2 d  8.0: mu_i [1481] x None mu_sigma 1481 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 38 Z 2 d 12.0: mu_i [1822] x None mu_sigma 1822 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 38 Z 2 d 16.0: mu_i [2043] x None mu_sigma 2043 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 38 Z 2 d 24.0: mu_i [2292] x None mu_sigma 2292 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 38 Z 2 d 32.0: mu_i [2415] x None mu_sigma 2415 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 1e+18 8V eps_cap 50 Z 2 d 16.0: mu_i [10579, 12347, 9724] x 1.14 mu_sigma 10928 n_H/n_tot 0.995 MR(7T)-MR(2T) 0.06%
+NA 5e+19 5V eps_cap 50 Z 1 d  1.0: mu_i [1151] x None mu_sigma 1151 n_H/n_tot 1.000 MR(7T)-MR(2T) -0.00%
+NA 5e+19 5V eps_cap 50 Z 1 d  2.0: mu_i [1335] x None mu_sigma 1335 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 50 Z 1 d  3.0: mu_i [1514] x None mu_sigma 1514 n_H/n_tot 1.000 MR(7T)-MR(2T) -0.00%
+NA 5e+19 5V eps_cap 50 Z 1 d  4.0: mu_i [1677] x None mu_sigma 1677 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 50 Z 1 d  6.0: mu_i [1939] x None mu_sigma 1939 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 50 Z 1 d  8.0: mu_i [2125] x None mu_sigma 2125 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 50 Z 1 d 12.0: mu_i [2355] x None mu_sigma 2355 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 50 Z 1 d 16.0: mu_i [2484] x None mu_sigma 2484 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 50 Z 1 d 24.0: mu_i [2615] x None mu_sigma 2615 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 50 Z 1 d 32.0: mu_i [2675] x None mu_sigma 2675 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 50 Z 2 d  1.0: mu_i [726] x None mu_sigma 726 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 50 Z 2 d  2.0: mu_i [880] x None mu_sigma 880 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 50 Z 2 d  3.0: mu_i [1042] x None mu_sigma 1042 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 50 Z 2 d  4.0: mu_i [1203] x None mu_sigma 1203 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 50 Z 2 d  6.0: mu_i [1492] x None mu_sigma 1492 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 50 Z 2 d  8.0: mu_i [1725] x None mu_sigma 1725 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 50 Z 2 d 12.0: mu_i [2050] x None mu_sigma 2050 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 50 Z 2 d 16.0: mu_i [2254] x None mu_sigma 2254 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 50 Z 2 d 24.0: mu_i [2479] x None mu_sigma 2479 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 5V eps_cap 50 Z 2 d 32.0: mu_i [2588] x None mu_sigma 2588 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 1e+18 8V eps_cap 50 Z 2 d 24.0: mu_i [22017, 22336, 11121] x 0.95 mu_sigma 21748 n_H/n_tot 0.992 MR(7T)-MR(2T) 0.22%
+NA 5e+19 7V eps_cap 24 Z 1 d  1.0: mu_i [375, 93] x 0.25 mu_sigma 366 n_H/n_tot 0.982 MR(7T)-MR(2T) 0.03%
+NA 5e+19 7V eps_cap 24 Z 1 d  2.0: mu_i [484, 102] x 0.21 mu_sigma 471 n_H/n_tot 0.980 MR(7T)-MR(2T) 0.05%
+NA 5e+19 7V eps_cap 24 Z 1 d  3.0: mu_i [620, 110] x 0.18 mu_sigma 603 n_H/n_tot 0.978 MR(7T)-MR(2T) 0.07%
+NA 5e+19 7V eps_cap 24 Z 1 d  4.0: mu_i [780, 117] x 0.15 mu_sigma 758 n_H/n_tot 0.976 MR(7T)-MR(2T) 0.10%
+NA 5e+19 7V eps_cap 24 Z 1 d  6.0: mu_i [1139, 127] x 0.11 mu_sigma 1106 n_H/n_tot 0.974 MR(7T)-MR(2T) 0.17%
+NA 5e+19 7V eps_cap 24 Z 1 d  8.0: mu_i [1483, 132] x 0.09 mu_sigma 1439 n_H/n_tot 0.973 MR(7T)-MR(2T) 0.24%
+NA 5e+19 7V eps_cap 24 Z 1 d 12.0: mu_i [1966, 138] x 0.07 mu_sigma 1906 n_H/n_tot 0.972 MR(7T)-MR(2T) 0.35%
+NA 5e+19 7V eps_cap 24 Z 1 d 16.0: mu_i [2210, 146] x 0.07 mu_sigma 2143 n_H/n_tot 0.971 MR(7T)-MR(2T) 0.42%
+NA 5e+19 7V eps_cap 24 Z 1 d 24.0: mu_i [2408, 161] x 0.07 mu_sigma 2335 n_H/n_tot 0.972 MR(7T)-MR(2T) 0.50%
+NA 5e+19 7V eps_cap 24 Z 1 d 32.0: mu_i [2482, 169] x 0.07 mu_sigma 2406 n_H/n_tot 0.972 MR(7T)-MR(2T) 0.54%
+NA 1e+18 8V eps_cap 50 Z 2 d 32.0: mu_i [35980, 31300, 11003] x 0.8 mu_sigma 34216 n_H/n_tot 0.983 MR(7T)-MR(2T) 0.67%
+NA 5e+19 7V eps_cap 24 Z 2 d  1.0: mu_i [203, 62] x 0.3 mu_sigma 198 n_H/n_tot 0.984 MR(7T)-MR(2T) 0.01%
+NA 5e+19 7V eps_cap 24 Z 2 d  2.0: mu_i [267, 69] x 0.26 mu_sigma 261 n_H/n_tot 0.982 MR(7T)-MR(2T) 0.02%
+NA 5e+19 7V eps_cap 24 Z 2 d  3.0: mu_i [353, 76] x 0.22 mu_sigma 344 n_H/n_tot 0.980 MR(7T)-MR(2T) 0.02%
+NA 5e+19 7V eps_cap 24 Z 2 d  4.0: mu_i [460, 84] x 0.18 mu_sigma 448 n_H/n_tot 0.978 MR(7T)-MR(2T) 0.04%
+NA 5e+19 7V eps_cap 24 Z 2 d  6.0: mu_i [732, 95] x 0.13 mu_sigma 711 n_H/n_tot 0.975 MR(7T)-MR(2T) 0.08%
+NA 5e+19 7V eps_cap 24 Z 2 d  8.0: mu_i [1043, 103] x 0.1 mu_sigma 1012 n_H/n_tot 0.973 MR(7T)-MR(2T) 0.13%
+NA 5e+19 7V eps_cap 38 Z 1 d  1.0: mu_i [582, 113] x 0.19 mu_sigma 566 n_H/n_tot 0.979 MR(7T)-MR(2T) 0.06%
+NA 5e+19 7V eps_cap 24 Z 2 d 12.0: mu_i [1592, 112] x 0.07 mu_sigma 1544 n_H/n_tot 0.972 MR(7T)-MR(2T) 0.23%
+NA 5e+19 7V eps_cap 38 Z 1 d  2.0: mu_i [732, 122] x 0.17 mu_sigma 712 n_H/n_tot 0.977 MR(7T)-MR(2T) 0.09%
+NA 5e+19 7V eps_cap 24 Z 2 d 16.0: mu_i [1940, 123] x 0.06 mu_sigma 1881 n_H/n_tot 0.971 MR(7T)-MR(2T) 0.32%
+NA 5e+19 7V eps_cap 38 Z 1 d  3.0: mu_i [911, 129] x 0.14 mu_sigma 886 n_H/n_tot 0.976 MR(7T)-MR(2T) 0.13%
+NA 5e+19 7V eps_cap 24 Z 2 d 24.0: mu_i [2267, 146] x 0.06 mu_sigma 2198 n_H/n_tot 0.971 MR(7T)-MR(2T) 0.43%
+NA 5e+19 7V eps_cap 38 Z 1 d  4.0: mu_i [1111, 135] x 0.12 mu_sigma 1079 n_H/n_tot 0.975 MR(7T)-MR(2T) 0.17%
+NA 5e+19 7V eps_cap 24 Z 2 d 32.0: mu_i [2401, 160] x 0.07 mu_sigma 2328 n_H/n_tot 0.971 MR(7T)-MR(2T) 0.50%
+NA 5e+19 7V eps_cap 38 Z 1 d  6.0: mu_i [1519, 143] x 0.09 mu_sigma 1474 n_H/n_tot 0.973 MR(7T)-MR(2T) 0.27%
+NA 5e+19 7V eps_cap 38 Z 1 d  8.0: mu_i [1870, 146] x 0.08 mu_sigma 1813 n_H/n_tot 0.972 MR(7T)-MR(2T) 0.35%
+NA 5e+19 7V eps_cap 38 Z 1 d 12.0: mu_i [2311, 151] x 0.07 mu_sigma 2240 n_H/n_tot 0.971 MR(7T)-MR(2T) 0.46%
+NA 5e+19 7V eps_cap 38 Z 1 d 16.0: mu_i [2520, 158] x 0.06 mu_sigma 2443 n_H/n_tot 0.971 MR(7T)-MR(2T) 0.52%
+NA 5e+19 7V eps_cap 38 Z 1 d 24.0: mu_i [2690, 170] x 0.06 mu_sigma 2607 n_H/n_tot 0.971 MR(7T)-MR(2T) 0.60%
+NA 5e+19 7V eps_cap 38 Z 1 d 32.0: mu_i [2755, 177] x 0.06 mu_sigma 2670 n_H/n_tot 0.971 MR(7T)-MR(2T) 0.64%
+NA 5e+19 7V eps_cap 38 Z 2 d  1.0: mu_i [324, 80] x 0.25 mu_sigma 316 n_H/n_tot 0.981 MR(7T)-MR(2T) 0.02%
+NA 5e+19 7V eps_cap 38 Z 2 d  2.0: mu_i [420, 88] x 0.21 mu_sigma 409 n_H/n_tot 0.980 MR(7T)-MR(2T) 0.03%
+NA 5e+19 7V eps_cap 38 Z 2 d  3.0: mu_i [543, 96] x 0.18 mu_sigma 529 n_H/n_tot 0.978 MR(7T)-MR(2T) 0.05%
+NA 5e+19 7V eps_cap 38 Z 2 d  4.0: mu_i [691, 103] x 0.15 mu_sigma 672 n_H/n_tot 0.976 MR(7T)-MR(2T) 0.08%
+NA 5e+19 7V eps_cap 38 Z 2 d  6.0: mu_i [1038, 113] x 0.11 mu_sigma 1008 n_H/n_tot 0.974 MR(7T)-MR(2T) 0.14%
+NA 5e+19 7V eps_cap 38 Z 2 d  8.0: mu_i [1395, 119] x 0.09 mu_sigma 1353 n_H/n_tot 0.973 MR(7T)-MR(2T) 0.21%
+NA 5e+19 7V eps_cap 38 Z 2 d 12.0: mu_i [1949, 128] x 0.07 mu_sigma 1890 n_H/n_tot 0.971 MR(7T)-MR(2T) 0.33%
+NA 5e+19 7V eps_cap 38 Z 2 d 16.0: mu_i [2268, 138] x 0.06 mu_sigma 2198 n_H/n_tot 0.971 MR(7T)-MR(2T) 0.41%
+NA 5e+19 7V eps_cap 50 Z 1 d  1.0: mu_i [770, 127] x 0.17 mu_sigma 749 n_H/n_tot 0.977 MR(7T)-MR(2T) 0.10%
+NA 5e+19 7V eps_cap 38 Z 2 d 24.0: mu_i [2558, 157] x 0.06 mu_sigma 2479 n_H/n_tot 0.971 MR(7T)-MR(2T) 0.53%
+NA 5e+19 7V eps_cap 50 Z 1 d  2.0: mu_i [951, 135] x 0.14 mu_sigma 924 n_H/n_tot 0.976 MR(7T)-MR(2T) 0.14%
+NA 5e+19 7V eps_cap 38 Z 2 d 32.0: mu_i [2678, 169] x 0.06 mu_sigma 2596 n_H/n_tot 0.971 MR(7T)-MR(2T) 0.59%
+NA 5e+19 7V eps_cap 50 Z 1 d  3.0: mu_i [1158, 142] x 0.12 mu_sigma 1125 n_H/n_tot 0.975 MR(7T)-MR(2T) 0.19%
+NA 5e+19 7V eps_cap 50 Z 1 d  4.0: mu_i [1378, 147] x 0.11 mu_sigma 1338 n_H/n_tot 0.974 MR(7T)-MR(2T) 0.24%
+NA 5e+19 7V eps_cap 50 Z 1 d  6.0: mu_i [1800, 153] x 0.08 mu_sigma 1746 n_H/n_tot 0.973 MR(7T)-MR(2T) 0.34%
+NA 5e+19 7V eps_cap 50 Z 1 d  8.0: mu_i [2135, 155] x 0.07 mu_sigma 2070 n_H/n_tot 0.972 MR(7T)-MR(2T) 0.43%
+NA 5e+19 7V eps_cap 50 Z 1 d 12.0: mu_i [2530, 160] x 0.06 mu_sigma 2452 n_H/n_tot 0.971 MR(7T)-MR(2T) 0.53%
+NA 5e+19 7V eps_cap 50 Z 1 d 16.0: mu_i [2711, 166] x 0.06 mu_sigma 2627 n_H/n_tot 0.971 MR(7T)-MR(2T) 0.59%
+NA 5e+19 7V eps_cap 50 Z 1 d 24.0: mu_i [2857, 176] x 0.06 mu_sigma 2769 n_H/n_tot 0.971 MR(7T)-MR(2T) 0.66%
+NA 5e+19 8V eps_cap 24 Z 1 d  1.0: mu_i [294, 249] x 0.85 mu_sigma 289 n_H/n_tot 0.998 MR(7T)-MR(2T) 0.01%
+NA 5e+19 7V eps_cap 50 Z 1 d 32.0: mu_i [2914, 182] x 0.06 mu_sigma 2825 n_H/n_tot 0.971 MR(7T)-MR(2T) 0.69%
+NA 5e+19 8V eps_cap 24 Z 1 d  2.0: mu_i [385, 293] x 0.76 mu_sigma 375 n_H/n_tot 0.994 MR(7T)-MR(2T) 0.03%
+NA 5e+19 7V eps_cap 50 Z 2 d  1.0: mu_i [442, 94] x 0.21 mu_sigma 431 n_H/n_tot 0.980 MR(7T)-MR(2T) 0.04%
+NA 5e+19 8V eps_cap 24 Z 1 d  3.0: mu_i [507, 344] x 0.68 mu_sigma 488 n_H/n_tot 0.989 MR(7T)-MR(2T) 0.08%
+NA 5e+19 7V eps_cap 50 Z 2 d  2.0: mu_i [565, 102] x 0.18 mu_sigma 550 n_H/n_tot 0.978 MR(7T)-MR(2T) 0.06%
+NA 5e+19 8V eps_cap 24 Z 1 d  4.0: mu_i [659, 399] x 0.61 mu_sigma 629 n_H/n_tot 0.983 MR(7T)-MR(2T) 0.19%
+NA 5e+19 7V eps_cap 50 Z 2 d  3.0: mu_i [718, 110] x 0.15 mu_sigma 699 n_H/n_tot 0.977 MR(7T)-MR(2T) 0.08%
+NA 5e+19 7V eps_cap 50 Z 2 d  4.0: mu_i [896, 116] x 0.13 mu_sigma 870 n_H/n_tot 0.975 MR(7T)-MR(2T) 0.12%
+NA 5e+19 8V eps_cap 24 Z 1 d  6.0: mu_i [1041, 502] x 0.48 mu_sigma 978 n_H/n_tot 0.970 MR(7T)-MR(2T) 0.64%
+NA 5e+19 7V eps_cap 50 Z 2 d  6.0: mu_i [1288, 126] x 0.1 mu_sigma 1250 n_H/n_tot 0.973 MR(7T)-MR(2T) 0.20%
+NA 5e+19 8V eps_cap 24 Z 1 d  8.0: mu_i [1473, 580] x 0.39 mu_sigma 1369 n_H/n_tot 0.958 MR(7T)-MR(2T) 1.40%
+NA 5e+19 7V eps_cap 50 Z 2 d  8.0: mu_i [1661, 131] x 0.08 mu_sigma 1611 n_H/n_tot 0.972 MR(7T)-MR(2T) 0.28%
+NA 5e+19 8V eps_cap 24 Z 1 d 12.0: mu_i [2217, 662] x 0.3 mu_sigma 2035 n_H/n_tot 0.943 MR(7T)-MR(2T) 3.11%
+NA 5e+19 7V eps_cap 50 Z 2 d 12.0: mu_i [2192, 139] x 0.06 mu_sigma 2125 n_H/n_tot 0.971 MR(7T)-MR(2T) 0.40%
+NA 5e+19 8V eps_cap 24 Z 1 d 16.0: mu_i [2656, 710] x 0.27 mu_sigma 2428 n_H/n_tot 0.938 MR(7T)-MR(2T) 4.24%
+NA 5e+19 7V eps_cap 50 Z 2 d 16.0: mu_i [2479, 148] x 0.06 mu_sigma 2403 n_H/n_tot 0.971 MR(7T)-MR(2T) 0.49%
+NA 5e+19 8V eps_cap 24 Z 1 d 24.0: mu_i [3014, 776] x 0.26 mu_sigma 2752 n_H/n_tot 0.936 MR(7T)-MR(2T) 5.16%
+NA 5e+19 7V eps_cap 50 Z 2 d 24.0: mu_i [2736, 165] x 0.06 mu_sigma 2652 n_H/n_tot 0.971 MR(7T)-MR(2T) 0.60%
+NA 5e+19 8V eps_cap 24 Z 1 d 32.0: mu_i [3139, 808] x 0.26 mu_sigma 2867 n_H/n_tot 0.936 MR(7T)-MR(2T) 5.46%
+NA 5e+19 8V eps_cap 24 Z 2 d  1.0: mu_i [155, 145] x 0.93 mu_sigma 153 n_H/n_tot 1.000 MR(7T)-MR(2T) 0.00%
+NA 5e+19 7V eps_cap 50 Z 2 d 32.0: mu_i [2843, 175] x 0.06 mu_sigma 2755 n_H/n_tot 0.971 MR(7T)-MR(2T) 0.65%
+NA 5e+19 8V eps_cap 24 Z 2 d  2.0: mu_i [206, 174] x 0.84 mu_sigma 202 n_H/n_tot 0.997 MR(7T)-MR(2T) 0.00%
+NA 5e+19 8V eps_cap 24 Z 2 d  3.0: mu_i [276, 210] x 0.76 mu_sigma 269 n_H/n_tot 0.994 MR(7T)-MR(2T) 0.02%
+NA 5e+19 8V eps_cap 24 Z 2 d  4.0: mu_i [369, 252] x 0.68 mu_sigma 355 n_H/n_tot 0.989 MR(7T)-MR(2T) 0.05%
+NA 5e+19 8V eps_cap 24 Z 2 d  6.0: mu_i [622, 342] x 0.55 mu_sigma 589 n_H/n_tot 0.977 MR(7T)-MR(2T) 0.21%
+NA 5e+19 8V eps_cap 24 Z 2 d  8.0: mu_i [953, 426] x 0.45 mu_sigma 891 n_H/n_tot 0.965 MR(7T)-MR(2T) 0.59%
+NA 5e+19 8V eps_cap 24 Z 2 d 12.0: mu_i [1675, 539] x 0.32 mu_sigma 1543 n_H/n_tot 0.947 MR(7T)-MR(2T) 1.92%
+NA 5e+19 8V eps_cap 24 Z 2 d 16.0: mu_i [2231, 611] x 0.27 mu_sigma 2042 n_H/n_tot 0.939 MR(7T)-MR(2T) 3.21%
+NA 5e+19 8V eps_cap 38 Z 1 d  1.0: mu_i [464, 348] x 0.75 mu_sigma 451 n_H/n_tot 0.993 MR(7T)-MR(2T) 0.05%
+NA 5e+19 8V eps_cap 24 Z 2 d 24.0: mu_i [2788, 716] x 0.26 mu_sigma 2546 n_H/n_tot 0.936 MR(7T)-MR(2T) 4.61%
+NA 5e+19 8V eps_cap 38 Z 1 d  2.0: mu_i [598, 400] x 0.67 mu_sigma 575 n_H/n_tot 0.988 MR(7T)-MR(2T) 0.12%
+NA 5e+19 8V eps_cap 24 Z 2 d 32.0: mu_i [3011, 774] x 0.26 mu_sigma 2749 n_H/n_tot 0.936 MR(7T)-MR(2T) 5.15%
+NA 5e+19 8V eps_cap 38 Z 1 d  3.0: mu_i [769, 457] x 0.59 mu_sigma 733 n_H/n_tot 0.982 MR(7T)-MR(2T) 0.26%
+NA 5e+19 8V eps_cap 38 Z 1 d  4.0: mu_i [975, 514] x 0.53 mu_sigma 921 n_H/n_tot 0.975 MR(7T)-MR(2T) 0.50%
+NA 5e+19 8V eps_cap 38 Z 1 d  6.0: mu_i [1452, 609] x 0.42 mu_sigma 1353 n_H/n_tot 0.961 MR(7T)-MR(2T) 1.30%
+NA 5e+19 8V eps_cap 38 Z 1 d  8.0: mu_i [1938, 670] x 0.35 mu_sigma 1790 n_H/n_tot 0.951 MR(7T)-MR(2T) 2.36%
+NA 5e+19 8V eps_cap 38 Z 1 d 12.0: mu_i [2674, 728] x 0.27 mu_sigma 2447 n_H/n_tot 0.939 MR(7T)-MR(2T) 4.26%
+NA 5e+19 8V eps_cap 38 Z 1 d 16.0: mu_i [3067, 766] x 0.25 mu_sigma 2798 n_H/n_tot 0.935 MR(7T)-MR(2T) 5.34%
+NA 5e+19 8V eps_cap 38 Z 1 d 24.0: mu_i [3382, 818] x 0.24 mu_sigma 3082 n_H/n_tot 0.933 MR(7T)-MR(2T) 6.17%
+NA 5e+19 8V eps_cap 38 Z 1 d 32.0: mu_i [3495, 844] x 0.24 mu_sigma 3185 n_H/n_tot 0.933 MR(7T)-MR(2T) 6.46%
+NA 5e+19 8V eps_cap 38 Z 2 d  1.0: mu_i [249, 214] x 0.86 mu_sigma 245 n_H/n_tot 0.998 MR(7T)-MR(2T) 0.01%
+NA 5e+19 8V eps_cap 38 Z 2 d  2.0: mu_i [328, 252] x 0.77 mu_sigma 319 n_H/n_tot 0.994 MR(7T)-MR(2T) 0.02%
+NA 5e+19 8V eps_cap 38 Z 2 d  3.0: mu_i [433, 298] x 0.69 mu_sigma 417 n_H/n_tot 0.989 MR(7T)-MR(2T) 0.06%
+NA 5e+19 8V eps_cap 38 Z 2 d  4.0: mu_i [567, 348] x 0.61 mu_sigma 541 n_H/n_tot 0.983 MR(7T)-MR(2T) 0.14%
+NA 5e+19 8V eps_cap 38 Z 2 d  6.0: mu_i [912, 447] x 0.49 mu_sigma 857 n_H/n_tot 0.971 MR(7T)-MR(2T) 0.50%
+NA 5e+19 8V eps_cap 50 Z 1 d  1.0: mu_i [627, 425] x 0.68 mu_sigma 604 n_H/n_tot 0.989 MR(7T)-MR(2T) 0.13%
+NA 5e+19 8V eps_cap 38 Z 2 d  8.0: mu_i [1326, 527] x 0.4 mu_sigma 1232 n_H/n_tot 0.958 MR(7T)-MR(2T) 1.16%
+NA 5e+19 8V eps_cap 50 Z 1 d  2.0: mu_i [796, 480] x 0.6 mu_sigma 759 n_H/n_tot 0.982 MR(7T)-MR(2T) 0.27%
+NA 5e+19 8V eps_cap 38 Z 2 d 12.0: mu_i [2117, 621] x 0.29 mu_sigma 1942 n_H/n_tot 0.942 MR(7T)-MR(2T) 2.91%
+NA 5e+19 8V eps_cap 50 Z 1 d  3.0: mu_i [1006, 538] x 0.53 mu_sigma 952 n_H/n_tot 0.976 MR(7T)-MR(2T) 0.52%
+NA 5e+19 8V eps_cap 38 Z 2 d 16.0: mu_i [2655, 681] x 0.26 mu_sigma 2424 n_H/n_tot 0.936 MR(7T)-MR(2T) 4.28%
+NA 5e+19 8V eps_cap 50 Z 1 d  4.0: mu_i [1249, 592] x 0.47 mu_sigma 1172 n_H/n_tot 0.969 MR(7T)-MR(2T) 0.89%
+NA 5e+19 8V eps_cap 38 Z 2 d 24.0: mu_i [3164, 768] x 0.24 mu_sigma 2884 n_H/n_tot 0.933 MR(7T)-MR(2T) 5.62%
+NA 5e+19 8V eps_cap 50 Z 1 d  6.0: mu_i [1781, 676] x 0.38 mu_sigma 1652 n_H/n_tot 0.956 MR(7T)-MR(2T) 1.94%
+NA 5e+19 8V eps_cap 38 Z 2 d 32.0: mu_i [3369, 815] x 0.24 mu_sigma 3070 n_H/n_tot 0.933 MR(7T)-MR(2T) 6.14%
+NA 5e+19 8V eps_cap 50 Z 1 d  8.0: mu_i [2282, 724] x 0.32 mu_sigma 2100 n_H/n_tot 0.946 MR(7T)-MR(2T) 3.16%
+NA 5e+19 8V eps_cap 50 Z 1 d 12.0: mu_i [2976, 769] x 0.26 mu_sigma 2718 n_H/n_tot 0.936 MR(7T)-MR(2T) 5.06%
+NA 5e+19 8V eps_cap 50 Z 1 d 16.0: mu_i [3325, 800] x 0.24 mu_sigma 3030 n_H/n_tot 0.933 MR(7T)-MR(2T) 6.04%
+NA 5e+19 8V eps_cap 50 Z 1 d 24.0: mu_i [3601, 844] x 0.23 mu_sigma 3279 n_H/n_tot 0.932 MR(7T)-MR(2T) 6.79%
+NA 5e+19 8V eps_cap 50 Z 1 d 32.0: mu_i [3702, 866] x 0.23 mu_sigma 3371 n_H/n_tot 0.932 MR(7T)-MR(2T) 7.05%
+NA 5e+19 8V eps_cap 50 Z 2 d  1.0: mu_i [344, 274] x 0.8 mu_sigma 336 n_H/n_tot 0.996 MR(7T)-MR(2T) 0.02%
+NA 5e+19 8V eps_cap 50 Z 2 d  2.0: mu_i [448, 319] x 0.71 mu_sigma 433 n_H/n_tot 0.991 MR(7T)-MR(2T) 0.06%
+NA 5e+19 8V eps_cap 50 Z 2 d  3.0: mu_i [583, 371] x 0.64 mu_sigma 558 n_H/n_tot 0.985 MR(7T)-MR(2T) 0.14%
+NA 5e+19 8V eps_cap 50 Z 2 d  4.0: mu_i [751, 424] x 0.57 mu_sigma 713 n_H/n_tot 0.979 MR(7T)-MR(2T) 0.28%
+NA 5e+19 8V eps_cap 50 Z 2 d  6.0: mu_i [1165, 523] x 0.45 mu_sigma 1090 n_H/n_tot 0.965 MR(7T)-MR(2T) 0.84%
+NA 5e+19 8V eps_cap 50 Z 2 d  8.0: mu_i [1629, 595] x 0.37 mu_sigma 1508 n_H/n_tot 0.954 MR(7T)-MR(2T) 1.73%
+NA 5e+19 8V eps_cap 50 Z 2 d 12.0: mu_i [2435, 673] x 0.28 mu_sigma 2229 n_H/n_tot 0.939 MR(7T)-MR(2T) 3.68%
+NA 5e+19 8V eps_cap 50 Z 2 d 16.0: mu_i [2938, 725] x 0.25 mu_sigma 2680 n_H/n_tot 0.934 MR(7T)-MR(2T) 5.03%
+NA 5e+19 8V eps_cap 50 Z 2 d 24.0: mu_i [3398, 800] x 0.24 mu_sigma 3094 n_H/n_tot 0.932 MR(7T)-MR(2T) 6.26%
+NA 5e+19 8V eps_cap 50 Z 2 d 32.0: mu_i [3583, 840] x 0.23 mu_sigma 3262 n_H/n_tot 0.932 MR(7T)-MR(2T) 6.74%

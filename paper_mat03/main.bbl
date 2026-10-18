@@ -1,0 +1,142 @@
+\begin{thebibliography}{19}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Kim et~al.(2016)Kim, Park, Kim, Shin, and Char]{Kim2016LIO}
+U.~Kim, C.~Park, Y.~M. Kim, J.~Shin, and K.~Char.
+\newblock Conducting interface states at {LaInO$_3$/BaSnO$_3$} polar interface
+  controlled by {F}ermi level.
+\newblock \emph{APL Mater.}, 4:\penalty0 071102, 2016.
+\newblock \doi{10.1063/1.4959960}.
+
+\bibitem[Kim et~al.(2019)Kim, Markurt, Kim, Zupancic, Shin, Albrecht, and
+  Char]{Kim2019LIO}
+Y.~M. Kim, T.~Markurt, Y.~Kim, M.~Zupancic, J.~Shin, M.~Albrecht, and K.~Char.
+\newblock Interface polarization model for a 2-dimensional electron gas at the
+  {BaSnO$_3$/LaInO$_3$} interface.
+\newblock \emph{Sci. Rep.}, 9:\penalty0 16202, 2019.
+\newblock \doi{10.1038/s41598-019-52772-8}.
+
+\bibitem[Aggoune and Draxl(2021)]{Aggoune2021}
+W.~Aggoune and C.~Draxl.
+\newblock Tuning two-dimensional electron and hole gases at
+  {LaInO$_3$/BaSnO$_3$} interfaces by polar distortions, termination, and
+  thickness.
+\newblock \emph{npj Comput. Mater.}, 7:\penalty0 174, 2021.
+\newblock \doi{10.1038/s41524-021-00646-x}.
+
+\bibitem[Lee et~al.(2025)Lee, Cho, Park, Kim, Schlom, and Char]{Lee2024LIO}
+J.~Lee, H.~Cho, J.~Park, B.~Kim, D.~G. Schlom, and K.~Char.
+\newblock Observation of mobility above 2000 cm$^2$/v s in {2DEG} at
+  {LaInO$_3$/BaSnO$_3$} interface by electric-double-layer gating.
+\newblock \emph{Adv. Electron. Mater.}, 11\penalty0 (9):\penalty0 2400811,
+  2025.
+\newblock \doi{10.1002/aelm.202400811}.
+
+\bibitem[McCann et~al.(2015)McCann, Misek, Kamenev, and Huxley]{McCann2015}
+D.~M. McCann, M.~Misek, K.~V. Kamenev, and A.~D. Huxley.
+\newblock Pressure-temperature phase diagram of ionic liquid dielectric
+  {DEME-TFSI}.
+\newblock \emph{Physics Procedia}, 75:\penalty0 252--258, 2015.
+\newblock \doi{10.1016/j.phpro.2015.12.031}.
+
+\bibitem[Ownby(2026{\natexlab{a}})]{OwnbyMAT02}
+G.~Ownby.
+\newblock Where the gate charge must sit: electrostatic limits of electrolyte
+  gating at the {LaInO$_3$/BaSnO$_3$} interface and their intersubband
+  signature, 2026{\natexlab{a}}.
+\newblock unpublished.
+
+\bibitem[Ziman(1972)]{Ziman1972}
+J.~M. Ziman.
+\newblock \emph{Principles of the Theory of Solids}.
+\newblock Cambridge University Press, Cambridge, 2nd edition, 1972.
+\newblock Chap. 7.
+
+\bibitem[Ownby(2026{\natexlab{b}})]{OwnbyMAT01}
+G.~Ownby.
+\newblock Intersubband optics of the polar {LaInO$_3$/BaSnO$_3$}
+  two-dimensional electron gas: fragmented hybrid plasmons, phonon-limited
+  lifetimes, intrinsic second-order nonlinearity and the limits of electrolyte
+  gating, 2026{\natexlab{b}}.
+\newblock unpublished.
+
+\bibitem[Ownby(2026{\natexlab{c}})]{qwkit}
+G.~Ownby.
+\newblock qwkit: self-consistent intersubband optics of quantum wells,
+  2026{\natexlab{c}}.
+\newblock version 0.6.2, University of Oklahoma.
+
+\bibitem[Siggia and Kwok(1970)]{SiggiaKwok1970}
+E.~D. Siggia and P.~C. Kwok.
+\newblock Properties of electrons in semiconductor inversion layers with many
+  occupied electric subbands. {I}. {S}creening and impurity scattering.
+\newblock \emph{Phys. Rev. B}, 2:\penalty0 1024--1036, 1970.
+\newblock \doi{10.1103/PhysRevB.2.1024}.
+
+\bibitem[Ando et~al.(1982)Ando, Fowler, and Stern]{AFS1982}
+T.~Ando, A.~B. Fowler, and F.~Stern.
+\newblock Electronic properties of two-dimensional systems.
+\newblock \emph{Rev. Mod. Phys.}, 54:\penalty0 437--672, 1982.
+\newblock \doi{10.1103/RevModPhys.54.437}.
+
+\bibitem[Paik et~al.(2017)Paik, Chen, Lochocki, Seidner~H., Verma, Tanen, Park,
+  Uchida, Shang, Zhou, Br{\"u}tzam, Uecker, Liu, Jena, Shen, Muller, and
+  Schlom]{Paik2017}
+H.~Paik, Z.~Chen, E.~Lochocki, A.~Seidner~H., A.~Verma, N.~Tanen, J.~Park,
+  M.~Uchida, S.~Shang, B.-C. Zhou, M.~Br{\"u}tzam, R.~Uecker, Z.-K. Liu,
+  D.~Jena, K.~M. Shen, D.~A. Muller, and D.~G. Schlom.
+\newblock Adsorption-controlled growth of {La}-doped {BaSnO$_3$} by
+  molecular-beam epitaxy.
+\newblock \emph{APL Mater.}, 5:\penalty0 116107, 2017.
+\newblock \doi{10.1063/1.5001839}.
+
+\bibitem[Jena et~al.(2000)Jena, Gossard, and Mishra]{Jena2000}
+D.~Jena, A.~C. Gossard, and U.~K. Mishra.
+\newblock Dislocation scattering in a two-dimensional electron gas.
+\newblock \emph{Appl. Phys. Lett.}, 76:\penalty0 1707--1709, 2000.
+\newblock \doi{10.1063/1.126143}.
+
+\bibitem[Zaremba(1992)]{Zaremba1992}
+E.~Zaremba.
+\newblock Transverse magnetoresistance in quantum wells with multiple subband
+  occupancy.
+\newblock \emph{Phys. Rev. B}, 45:\penalty0 14143, 1992.
+\newblock \doi{10.1103/PhysRevB.45.14143}.
+
+\bibitem[Altshuler et~al.(1980)Altshuler, Aronov, and Lee]{AltshulerAronov1980}
+B.~L. Altshuler, A.~G. Aronov, and P.~A. Lee.
+\newblock Interaction effects in disordered {F}ermi systems in two dimensions.
+\newblock \emph{Phys. Rev. Lett.}, 44:\penalty0 1288, 1980.
+\newblock \doi{10.1103/PhysRevLett.44.1288}.
+
+\bibitem[Lee and Ramakrishnan(1985)]{LeeRamakrishnan1985}
+P.~A. Lee and T.~V. Ramakrishnan.
+\newblock Disordered electronic systems.
+\newblock \emph{Rev. Mod. Phys.}, 57:\penalty0 287--337, 1985.
+\newblock \doi{10.1103/RevModPhys.57.287}.
+
+\bibitem[Efros et~al.(1990)Efros, Pikus, and Samsonidze]{Efros1990}
+A.~L. Efros, F.~G. Pikus, and G.~G. Samsonidze.
+\newblock Maximum low-temperature mobility of two-dimensional electrons in
+  heterojunctions with a thick spacer layer.
+\newblock \emph{Phys. Rev. B}, 41:\penalty0 8295, 1990.
+\newblock \doi{10.1103/PhysRevB.41.8295}.
+
+\bibitem[Buks et~al.(1994)Buks, Heiblum, and Shtrikman]{Buks1994}
+E.~Buks, M.~Heiblum, and H.~Shtrikman.
+\newblock Correlated charged donors and strong mobility enhancement in a
+  two-dimensional electron gas.
+\newblock \emph{Phys. Rev. B}, 49:\penalty0 14790, 1994.
+\newblock \doi{10.1103/PhysRevB.49.14790}.
+
+\bibitem[Juretschke et~al.(1956)Juretschke, Landauer, and
+  Swanson]{Juretschke1956}
+H.~J. Juretschke, R.~Landauer, and J.~A. Swanson.
+\newblock Hall effect and conductivity in porous media.
+\newblock \emph{J. Appl. Phys.}, 27:\penalty0 838, 1956.
+
+\end{thebibliography}

@@ -1,0 +1,48 @@
+4V Delta 0.0 Lambda     0: mu_i [3346, 4910] x 1.47 mu_sigma 3601
+4V Delta 2.0 Lambda    15: mu_i [267, 422] x 1.58 mu_sigma 293
+4V Delta 2.0 Lambda    30: mu_i [811, 1436] x 1.77 mu_sigma 913
+4V Delta 2.0 Lambda    60: mu_i [2546, 3976] x 1.56 mu_sigma 2779
+4V Delta 2.0 Lambda   100: mu_i [3079, 4614] x 1.50 mu_sigma 3330
+4V Delta 2.0 Lambda   200: mu_i [3260, 4736] x 1.45 mu_sigma 3501
+4V Delta 4.0 Lambda    15: mu_i [71, 113] x 1.59 mu_sigma 78
+4V Delta 4.0 Lambda    30: mu_i [250, 450] x 1.80 mu_sigma 283
+4V Delta 4.0 Lambda    60: mu_i [1490, 2513] x 1.69 mu_sigma 1657
+4V Delta 4.0 Lambda   100: mu_i [2483, 3932] x 1.58 mu_sigma 2719
+4V Delta 4.0 Lambda   200: mu_i [3028, 4276] x 1.41 mu_sigma 3232
+4V <z> of subbands (A): [10.8, 29.8]
+5V Delta 0.0 Lambda     0: mu_i [3183, 5324] x 1.67 mu_sigma 3583
+5V Delta 2.0 Lambda    15: mu_i [248, 396] x 1.59 mu_sigma 276
+5V Delta 2.0 Lambda    30: mu_i [887, 1631] x 1.84 mu_sigma 1026
+5V Delta 2.0 Lambda    60: mu_i [2468, 4359] x 1.77 mu_sigma 2821
+5V Delta 2.0 Lambda   100: mu_i [2919, 4993] x 1.71 mu_sigma 3306
+5V Delta 2.0 Lambda   200: mu_i [3088, 5103] x 1.65 mu_sigma 3465
+5V Delta 4.0 Lambda    15: mu_i [66, 105] x 1.59 mu_sigma 73
+5V Delta 4.0 Lambda    30: mu_i [282, 523] x 1.85 mu_sigma 327
+5V Delta 4.0 Lambda    60: mu_i [1480, 2830] x 1.91 mu_sigma 1732
+5V Delta 4.0 Lambda   100: mu_i [2334, 4240] x 1.82 mu_sigma 2690
+5V Delta 4.0 Lambda   200: mu_i [2839, 4535] x 1.60 mu_sigma 3155
+5V <z> of subbands (A): [9.6, 27.8]
+7V Delta 0.0 Lambda     0: mu_i [2264, 3030, 1661] x 1.32 mu_sigma 2420
+7V Delta 2.0 Lambda    15: mu_i [143, 211, 314] x 1.50 mu_sigma 158
+7V Delta 2.0 Lambda    30: mu_i [533, 699, 1122] x 1.34 mu_sigma 572
+7V Delta 2.0 Lambda    60: mu_i [1819, 2515, 1362] x 1.36 mu_sigma 1961
+7V Delta 2.0 Lambda   100: mu_i [2099, 2894, 1006] x 1.35 mu_sigma 2257
+7V Delta 2.0 Lambda   200: mu_i [2207, 2957, 958] x 1.31 mu_sigma 2355
+7V Delta 4.0 Lambda    15: mu_i [38, 56, 93] x 1.52 mu_sigma 42
+7V Delta 4.0 Lambda    30: mu_i [163, 215, 435] x 1.36 mu_sigma 176
+7V Delta 4.0 Lambda    60: mu_i [1143, 1681, 896] x 1.45 mu_sigma 1253
+7V Delta 4.0 Lambda   100: mu_i [1726, 2594, 442] x 1.46 mu_sigma 1898
+7V Delta 4.0 Lambda   200: mu_i [2059, 2786, 413] x 1.32 mu_sigma 2199
+7V <z> of subbands (A): [8.0, 24.3, 43.1]
+8V Delta 0.0 Lambda     0: mu_i [1874, 2583, 3275] x 1.43 mu_sigma 2068
+8V Delta 2.0 Lambda    15: mu_i [130, 192, 309] x 1.60 mu_sigma 148
+8V Delta 2.0 Lambda    30: mu_i [556, 793, 1299] x 1.54 mu_sigma 629
+8V Delta 2.0 Lambda    60: mu_i [1517, 2133, 2749] x 1.46 mu_sigma 1686
+8V Delta 2.0 Lambda   100: mu_i [1729, 2423, 2637] x 1.42 mu_sigma 1904
+8V Delta 2.0 Lambda   200: mu_i [1811, 2472, 2658] x 1.38 mu_sigma 1977
+8V Delta 4.0 Lambda    15: mu_i [34, 51, 83] x 1.61 mu_sigma 39
+8V Delta 4.0 Lambda    30: mu_i [180, 259, 439] x 1.56 mu_sigma 205
+8V Delta 4.0 Lambda    60: mu_i [963, 1414, 1856] x 1.53 mu_sigma 1086
+8V Delta 4.0 Lambda   100: mu_i [1410, 2101, 1628] x 1.45 mu_sigma 1563
+8V Delta 4.0 Lambda   200: mu_i [1659, 2245, 1674] x 1.31 mu_sigma 1784
+8V <z> of subbands (A): [6.5, 20.4, 38.4]

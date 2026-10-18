@@ -1,0 +1,118 @@
+== data (Lee et al. Fig. 3b): n_H(T) relative to 150 K, mu_H, sigma/e
+0V: n_H 150 K 0.544e13, 50 K 0.563, 2 K 0.552 | n_H(2K)/n_H(150K) 1.015, n_H(50K)/n_H(150K) 1.035 | loss 150->2 K -0.01e13, 50->2 K 0.01e13 | mu_H 150/50/2 K 59/40/9
+1V: n_H 150 K 0.782e13, 50 K 0.779, 2 K 0.680 | n_H(2K)/n_H(150K) 0.870, n_H(50K)/n_H(150K) 0.996 | loss 150->2 K 0.10e13, 50->2 K 0.10e13 | mu_H 150/50/2 K 89/83/56
+2V: n_H 150 K 1.462e13, 50 K 1.462, 2 K 1.378 | n_H(2K)/n_H(150K) 0.943, n_H(50K)/n_H(150K) 1.000 | loss 150->2 K 0.08e13, 50->2 K 0.08e13 | mu_H 150/50/2 K 159/188/170
+3V: n_H 150 K 2.060e13, 50 K 2.060, 2 K 1.970 | n_H(2K)/n_H(150K) 0.956, n_H(50K)/n_H(150K) 1.000 | loss 150->2 K 0.09e13, 50->2 K 0.09e13 | mu_H 150/50/2 K 118/130/126
+4V: n_H 150 K 3.775e13, 50 K 3.648, 2 K 3.381 | n_H(2K)/n_H(150K) 0.896, n_H(50K)/n_H(150K) 0.966 | loss 150->2 K 0.39e13, 50->2 K 0.27e13 | mu_H 150/50/2 K 237/310/546
+5V: n_H 150 K 4.903e13, 50 K 4.669, 2 K 4.150 | n_H(2K)/n_H(150K) 0.846, n_H(50K)/n_H(150K) 0.952 | loss 150->2 K 0.75e13, 50->2 K 0.52e13 | mu_H 150/50/2 K 330/412/422
+7V: n_H 150 K 7.331e13, 50 K 6.392, 2 K 5.431 | n_H(2K)/n_H(150K) 0.741, n_H(50K)/n_H(150K) 0.872 | loss 150->2 K 1.90e13, 50->2 K 0.96e13 | mu_H 150/50/2 K 910/1294/1223
+8V: n_H 150 K 10.800e13, 50 K 8.286, 2 K 6.497 | n_H(2K)/n_H(150K) 0.602, n_H(50K)/n_H(150K) 0.767 | loss 150->2 K 4.30e13, 50->2 K 1.79e13 | mu_H 150/50/2 K 1279/2066/2010
+== resistance upturn 50 -> 2 K (consistency.json)
+4V: hall R(2)/R(50) 0.612 A -29 kFl 76; dn_H -7.3% dmu_H +76.3%
+5V: fig3a R(2)/R(50) 1.097 A 5 kFl 56; hall R(2)/R(50) 1.097 A 7 kFl 72; dn_H -11.1% dmu_H +2.5% | 3a/Hall 1.14-1.31
+6V: fig3a R(2)/R(50) 0.903 A -15 kFl 161;
+7V: fig3a R(2)/R(50) 1.185 A 37 kFl 206; hall R(2)/R(50) 1.245 A 66 kFl 275; dn_H -15.0% dmu_H -5.5% | 3a/Hall 1.15-1.41
+8V: fig3a R(2)/R(50) 1.268 A 98 kFl 376; hall R(2)/R(50) 1.311 A 164 kFl 540; dn_H -21.6% dmu_H -2.7% | 3a/Hall 1.33-1.49
+== magnetoresistance at 2 K (mr.json)
+5V: plateau -3.75%, change 2->7 T -0.07%, R(2K)/R(50K)-1 (Hall) 9.7%, sigma drop 50->2 K (Hall) 8.9%
+7V: plateau -1.97%, change 2->7 T -0.08%, R(2K)/R(50K)-1 (Hall) 24.5%, sigma drop 50->2 K (Hall) 19.7%
+5V 2 channels (accepted 9276), tol 0.5: flat-MR sets 5904; smallest weight below 25/50/100/200: 0.000/0.000/0.000/0.145; slowest mu 0-156, its weight 0.145-0.999
+5V 2 channels (accepted 9276), tol 1.0: flat-MR sets 7541; smallest weight below 25/50/100/200: 0.000/0.000/0.000/0.000; slowest mu 0-272, its weight 0.145-0.999
+5V 3 channels (accepted 6427), tol 0.5: flat-MR sets 3805; smallest weight below 25/50/100/200: 0.000/0.000/0.000/0.069; slowest mu 0-146, its weight 0.000-0.846
+5V 3 channels (accepted 6427), tol 1.0: flat-MR sets 5318; smallest weight below 25/50/100/200: 0.000/0.000/0.000/0.000; slowest mu 0-262, its weight 0.000-0.998
+7V 2 channels (accepted 6886), tol 0.5: flat-MR sets 2228; smallest weight below 25/50/100/200: 0.252/0.252/0.252/0.252; slowest mu 0-23, its weight 0.252-0.276
+7V 2 channels (accepted 6886), tol 1.0: flat-MR sets 2885; smallest weight below 25/50/100/200: 0.000/0.252/0.252/0.252; slowest mu 0-49, its weight 0.252-0.287
+7V 3 channels (accepted 7149), tol 0.5: flat-MR sets 1250; smallest weight below 25/50/100/200: 0.073/0.161/0.206/0.233; slowest mu 0-20, its weight 0.000-0.275
+7V 3 channels (accepted 7149), tol 1.0: flat-MR sets 1892; smallest weight below 25/50/100/200: 0.000/0.041/0.149/0.217; slowest mu 0-48, its weight 0.000-0.286
+== Hall bend under the two-subband reading (consistency.json, straight-line fits, 2 and 50 K)
+NA 1e+18 3V 2 K: x 1.87, R_xy off line 0.0%
+NA 1e+18 4V 2 K: x 2.19, R_xy off line 0.9%
+NA 1e+18 4V 50 K: x 1.56, R_xy off line 0.1%
+NA 1e+18 5V 2 K: x 2.45, R_xy off line 0.8%
+NA 1e+18 5V 50 K: x 1.67, R_xy off line 0.2%
+NA 1e+18 7V 2 K: x 3.85, R_xy off line 5.4%
+NA 1e+18 7V 50 K: x 2.67, R_xy off line 3.3%
+NA 1e+18 8V 2 K: x 6.64, R_xy off line 9.3%
+NA 1e+18 8V 50 K: x 4.48, R_xy off line 7.8%
+NA 5e+19 7V 2 K: x 18.71, R_xy off line 29.3%
+NA 5e+19 7V 50 K: x 10.72, R_xy off line 13.6%
+NA 5e+19 8V 2 K: x 10.19, R_xy off line 18.4%
+NA 5e+19 8V 50 K: x 7.33, R_xy off line 13.7%
+== Coulomb scattering by the gate-induced charge (coulomb.json)
+NA 1e+18 4V eps_cap 24 Z 1: bound 489 (Hall) / - (Fig. 3a) -> d_min 1.0 / - A | x_max 39.4 (150 K) 37.5 (300 K) | suppression needed 1.00 / - | x(d 1-6 A) 1.47-1.68, x(window) 0.51-1.68
+NA 1e+18 4V eps_cap 24 Z 2: bound 489 (Hall) / - (Fig. 3a) -> d_min 1.0 / - A | x_max 39.4 (150 K) 37.5 (300 K) | suppression needed 1.00 / - | x(d 1-6 A) 1.56-1.72, x(window) 0.64-1.72
+   dislocations 1e10-1e11 (d 4 A, eps 24): x 0.33-1.27
+NA 1e+18 4V eps_cap 38 Z 1: bound 489 (Hall) / - (Fig. 3a) -> d_min 1.0 / - A | x_max 47.8 (150 K) 50.0 (300 K) | suppression needed 1.00 / - | x(d 1-6 A) 1.36-1.61, x(window) 0.45-1.61
+NA 1e+18 4V eps_cap 38 Z 2: bound 489 (Hall) / - (Fig. 3a) -> d_min 1.0 / - A | x_max 47.8 (150 K) 50.0 (300 K) | suppression needed 1.00 / - | x(d 1-6 A) 1.49-1.68, x(window) 0.55-1.68
+NA 1e+18 4V eps_cap 50 Z 1: bound 489 (Hall) / - (Fig. 3a) -> d_min 1.0 / - A | x_max 50.0 (150 K) 50.0 (300 K) | suppression needed 1.00 / - | x(d 1-6 A) 1.26-1.54, x(window) 0.41-1.54
+NA 1e+18 4V eps_cap 50 Z 2: bound 489 (Hall) / - (Fig. 3a) -> d_min 1.0 / - A | x_max 50.0 (150 K) 50.0 (300 K) | suppression needed 1.00 / - | x(d 1-6 A) 1.43-1.64, x(window) 0.50-1.64
+NA 1e+18 5V eps_cap 24 Z 1: bound 392 (Hall) / 303 (Fig. 3a) -> d_min 1.0 / 1.0 A | x_max 24.1 (150 K) 22.9 (300 K) | suppression needed 1.00 / 1.00 | x(d 1-6 A) 1.67-1.83, x(window) 0.90-1.83
+NA 1e+18 5V eps_cap 24 Z 2: bound 392 (Hall) / 303 (Fig. 3a) -> d_min 1.0 / 1.0 A | x_max 24.1 (150 K) 22.9 (300 K) | suppression needed 1.00 / 1.00 | x(d 1-6 A) 1.74-1.86, x(window) 1.13-1.86
+   dislocations 1e10-1e11 (d 4 A, eps 24): x 0.52-1.54
+NA 1e+18 5V eps_cap 38 Z 1: bound 392 (Hall) / 303 (Fig. 3a) -> d_min 1.0 / 1.0 A | x_max 44.5 (150 K) 39.4 (300 K) | suppression needed 1.00 / 1.00 | x(d 1-6 A) 1.59-1.79, x(window) 0.59-1.79
+NA 1e+18 5V eps_cap 38 Z 2: bound 392 (Hall) / 303 (Fig. 3a) -> d_min 1.0 / 1.0 A | x_max 44.5 (150 K) 39.4 (300 K) | suppression needed 1.00 / 1.00 | x(d 1-6 A) 1.69-1.84, x(window) 0.74-1.84
+NA 1e+18 5V eps_cap 50 Z 1: bound 392 (Hall) / 303 (Fig. 3a) -> d_min 1.0 / 1.0 A | x_max 50.0 (150 K) 50.0 (300 K) | suppression needed 1.00 / 1.00 | x(d 1-6 A) 1.52-1.75, x(window) 0.54-1.75
+NA 1e+18 5V eps_cap 50 Z 2: bound 392 (Hall) / 303 (Fig. 3a) -> d_min 1.0 / 1.0 A | x_max 50.0 (150 K) 50.0 (300 K) | suppression needed 1.00 / 1.00 | x(d 1-6 A) 1.65-1.81, x(window) 0.67-1.81
+NA 1e+18 7V eps_cap 24 Z 1: bound 1128 (Hall) / 812 (Fig. 3a) -> d_min 2.8 / 1.6 A | x_max 11.5 (150 K) 10.2 (300 K) | suppression needed 1.00 / 1.00 | x(d 1-6 A) 1.32-1.55, x(window) 1.27-1.43
+NA 1e+18 7V eps_cap 24 Z 2: bound 1128 (Hall) / 812 (Fig. 3a) -> d_min 5.6 / 4.2 A | x_max 11.5 (150 K) 10.2 (300 K) | suppression needed 1.00 / 1.00 | x(d 1-6 A) 1.35-1.57, x(window) 1.31-1.35
+   dislocations 1e10-1e11 (d 4 A, eps 24): x 0.86-1.34
+NA 1e+18 7V eps_cap 38 Z 1: bound 1128 (Hall) / 812 (Fig. 3a) -> d_min 1.0 / 1.0 A | x_max 17.7 (150 K) 16.1 (300 K) | suppression needed 1.00 / 1.00 | x(d 1-6 A) 1.28-1.52, x(window) 1.00-1.52
+NA 1e+18 7V eps_cap 38 Z 2: bound 1128 (Hall) / 812 (Fig. 3a) -> d_min 3.6 / 2.3 A | x_max 17.7 (150 K) 16.1 (300 K) | suppression needed 1.00 / 1.00 | x(d 1-6 A) 1.33-1.55, x(window) 1.15-1.40
+NA 1e+18 7V eps_cap 50 Z 1: bound 1128 (Hall) / 812 (Fig. 3a) -> d_min 1.0 / 1.0 A | x_max 23.7 (150 K) 21.5 (300 K) | suppression needed 1.00 / 1.00 | x(d 1-6 A) 1.25-1.49, x(window) 0.93-1.49
+NA 1e+18 7V eps_cap 50 Z 2: bound 1128 (Hall) / 812 (Fig. 3a) -> d_min 2.3 / 1.0 A | x_max 23.7 (150 K) 21.5 (300 K) | suppression needed 1.00 / 1.00 | x(d 1-6 A) 1.31-1.53, x(window) 1.10-1.42
+NA 1e+18 8V eps_cap 24 Z 1: bound 1585 (Hall) / 1066 (Fig. 3a) -> d_min 5.0 / 3.5 A | x_max 4.2 (150 K) 3.8 (300 K) | suppression needed 1.22 / 1.00 | x(d 1-6 A) 1.43-1.74, x(window) 1.51-1.51
+NA 1e+18 8V eps_cap 24 Z 2: bound 1585 (Hall) / 1066 (Fig. 3a) -> d_min 7.8 / 6.0 A | x_max 4.2 (150 K) 3.8 (300 K) | suppression needed 2.40 / 1.62 | x(d 1-6 A) 1.46-1.76, x(window) 1.53-1.53
+   dislocations 1e10-1e11 (d 4 A, eps 24): x 1.00-1.43
+NA 1e+18 8V eps_cap 38 Z 1: bound 1585 (Hall) / 1066 (Fig. 3a) -> d_min 3.2 / 1.8 A | x_max 6.2 (150 K) 5.3 (300 K) | suppression needed 1.00 / 1.00 | x(d 1-6 A) 1.39-1.70, x(window) 1.39-1.48
+NA 1e+18 8V eps_cap 38 Z 2: bound 1585 (Hall) / 1066 (Fig. 3a) -> d_min 5.8 / 4.2 A | x_max 6.2 (150 K) 5.3 (300 K) | suppression needed 1.00 / 1.00 | x(d 1-6 A) 1.44-1.73, x(window) 1.44-1.44
+NA 1e+18 8V eps_cap 50 Z 1: bound 1585 (Hall) / 1066 (Fig. 3a) -> d_min 2.0 / 1.0 A | x_max 7.7 (150 K) 6.8 (300 K) | suppression needed 1.00 / 1.00 | x(d 1-6 A) 1.35-1.68, x(window) 1.35-1.59
+NA 1e+18 8V eps_cap 50 Z 2: bound 1585 (Hall) / 1066 (Fig. 3a) -> d_min 4.5 / 3.0 A | x_max 7.7 (150 K) 6.8 (300 K) | suppression needed 1.00 / 1.00 | x(d 1-6 A) 1.42-1.72, x(window) 1.42-1.42
+NA 5e+19 4V eps_cap 24 Z 1: bound 489 (Hall) / - (Fig. 3a) -> d_min 1.0 / - A | x_max 33.0 (150 K) 24.1 (300 K) | suppression needed 1.00 / -
+NA 5e+19 4V eps_cap 24 Z 2: bound 489 (Hall) / - (Fig. 3a) -> d_min 2.3 / - A | x_max 33.0 (150 K) 24.1 (300 K) | suppression needed 1.00 / -
+NA 5e+19 4V eps_cap 38 Z 1: bound 489 (Hall) / - (Fig. 3a) -> d_min 1.0 / - A | x_max 39.4 (150 K) 38.5 (300 K) | suppression needed 1.00 / -
+NA 5e+19 4V eps_cap 38 Z 2: bound 489 (Hall) / - (Fig. 3a) -> d_min 1.0 / - A | x_max 39.4 (150 K) 38.5 (300 K) | suppression needed 1.00 / -
+NA 5e+19 4V eps_cap 50 Z 1: bound 489 (Hall) / - (Fig. 3a) -> d_min 1.0 / - A | x_max 42.7 (150 K) 50.0 (300 K) | suppression needed 1.00 / -
+NA 5e+19 4V eps_cap 50 Z 2: bound 489 (Hall) / - (Fig. 3a) -> d_min 1.0 / - A | x_max 42.7 (150 K) 50.0 (300 K) | suppression needed 1.00 / -
+NA 5e+19 5V eps_cap 24 Z 1: bound 392 (Hall) / 303 (Fig. 3a) -> d_min 1.0 / 1.0 A | x_max 15.7 (150 K) 13.5 (300 K) | suppression needed 1.00 / 1.00
+NA 5e+19 5V eps_cap 24 Z 2: bound 392 (Hall) / 303 (Fig. 3a) -> d_min 1.3 / 1.0 A | x_max 15.7 (150 K) 13.5 (300 K) | suppression needed 1.00 / 1.00
+NA 5e+19 5V eps_cap 38 Z 1: bound 392 (Hall) / 303 (Fig. 3a) -> d_min 1.0 / 1.0 A | x_max 24.1 (150 K) 22.2 (300 K) | suppression needed 1.00 / 1.00
+NA 5e+19 5V eps_cap 38 Z 2: bound 392 (Hall) / 303 (Fig. 3a) -> d_min 1.0 / 1.0 A | x_max 24.1 (150 K) 22.2 (300 K) | suppression needed 1.00 / 1.00
+NA 5e+19 5V eps_cap 50 Z 1: bound 392 (Hall) / 303 (Fig. 3a) -> d_min 1.0 / 1.0 A | x_max 32.2 (150 K) 30.4 (300 K) | suppression needed 1.00 / 1.00
+NA 5e+19 5V eps_cap 50 Z 2: bound 392 (Hall) / 303 (Fig. 3a) -> d_min 1.0 / 1.0 A | x_max 32.2 (150 K) 30.4 (300 K) | suppression needed 1.00 / 1.00
+NA 5e+19 7V eps_cap 24 Z 1: bound 1128 (Hall) / 812 (Fig. 3a) -> d_min 6.2 / 4.4 A | x_max 6.8 (150 K) 5.6 (300 K) | suppression needed 1.00 / 1.00 | x(d 1-6 A) 0.11-0.25, x(window) 0.10-0.10
+NA 5e+19 7V eps_cap 24 Z 2: bound 1128 (Hall) / 812 (Fig. 3a) -> d_min 9.0 / 6.8 A | x_max 6.8 (150 K) 5.6 (300 K) | suppression needed 1.38 / 1.00 | x(d 1-6 A) 0.13-0.30, x(window) 0.12-0.12
+   dislocations 1e10-1e11 (d 4 A, eps 24): x 0.09-0.17
+NA 5e+19 7V eps_cap 38 Z 1: bound 1128 (Hall) / 812 (Fig. 3a) -> d_min 4.3 / 2.6 A | x_max 10.0 (150 K) 8.3 (300 K) | suppression needed 1.00 / 1.00 | x(d 1-6 A) 0.09-0.19, x(window) 0.08-0.09
+NA 5e+19 7V eps_cap 38 Z 2: bound 1128 (Hall) / 812 (Fig. 3a) -> d_min 6.8 / 4.9 A | x_max 10.0 (150 K) 8.3 (300 K) | suppression needed 1.00 / 1.00 | x(d 1-6 A) 0.11-0.25, x(window) 0.09-0.09
+NA 5e+19 7V eps_cap 50 Z 1: bound 1128 (Hall) / 812 (Fig. 3a) -> d_min 3.0 / 1.4 A | x_max 12.8 (150 K) 10.9 (300 K) | suppression needed 1.00 / 1.00 | x(d 1-6 A) 0.08-0.17, x(window) 0.06-0.11
+NA 5e+19 7V eps_cap 50 Z 2: bound 1128 (Hall) / 812 (Fig. 3a) -> d_min 5.4 / 3.7 A | x_max 12.8 (150 K) 10.9 (300 K) | suppression needed 1.00 / 1.00 | x(d 1-6 A) 0.10-0.21, x(window) 0.06-0.10
+NA 5e+19 8V eps_cap 24 Z 1: bound 1585 (Hall) / 1066 (Fig. 3a) -> d_min 9.5 / 6.5 A | x_max 1.7 (150 K) 1.3 (300 K) | suppression needed 4.55 / 3.06 | x(d 1-6 A) 0.48-0.85, x(window) 0.79-0.79
+NA 5e+19 8V eps_cap 24 Z 2: bound 1585 (Hall) / 1066 (Fig. 3a) -> d_min 12.4 / 9.3 A | x_max 1.7 (150 K) 1.3 (300 K) | suppression needed 8.47 / 5.70 | x(d 1-6 A) 0.55-0.93, x(window) 0.87-0.87
+   dislocations 1e10-1e11 (d 4 A, eps 24): x 0.49-0.67
+NA 5e+19 8V eps_cap 38 Z 1: bound 1585 (Hall) / 1066 (Fig. 3a) -> d_min 7.1 / 4.8 A | x_max 2.3 (150 K) 1.3 (300 K) | suppression needed 2.57 / 1.73 | x(d 1-6 A) 0.42-0.75, x(window) 0.65-0.65
+NA 5e+19 8V eps_cap 38 Z 2: bound 1585 (Hall) / 1066 (Fig. 3a) -> d_min 10.2 / 7.2 A | x_max 2.3 (150 K) 1.3 (300 K) | suppression needed 4.59 / 3.09 | x(d 1-6 A) 0.49-0.86, x(window) 0.75-0.75
+NA 5e+19 8V eps_cap 50 Z 1: bound 1585 (Hall) / 1066 (Fig. 3a) -> d_min 5.8 / 3.5 A | x_max 2.8 (150 K) 1.7 (300 K) | suppression needed 1.75 / 1.18 | x(d 1-6 A) 0.38-0.68, x(window) 0.55-0.55
+NA 5e+19 8V eps_cap 50 Z 2: bound 1585 (Hall) / 1066 (Fig. 3a) -> d_min 8.5 / 5.9 A | x_max 2.8 (150 K) 1.7 (300 K) | suppression needed 3.01 / 2.02 | x(d 1-6 A) 0.45-0.80, x(window) 0.65-0.65
+== Coulomb scattering at the measured conductance, coupled magnetotransport (coupled.json; matched rows, d >= d_min)
+5V mult: n_H/n_tot 0.923-0.998 (fit 0.924-0.998); MR(7T)-MR(2T) 0.01-0.31% over d 1-24 A
+5V add: n_H/n_tot 0.948-0.992 (fit 0.949-0.992); MR(7T)-MR(2T) 0.05-0.25% over d 1-24 A
+7V mult: n_H/n_tot 0.968-0.994 (fit 0.971-0.994); MR(7T)-MR(2T) 0.04-0.65% over d 2-24 A
+7V add: n_H/n_tot 0.968-0.988 (fit 0.971-0.991); MR(7T)-MR(2T) 0.31-0.65% over d 2-24 A
+8V mult: n_H/n_tot 0.957-0.997 (fit 0.964-0.997); MR(7T)-MR(2T) 0.09-1.40% over d 4-24 A
+8V add: n_H/n_tot 0.958-0.983 (fit 0.964-0.989); MR(7T)-MR(2T) 0.63-1.40% over d 4-24 A
+== interface roughness with the Coulomb scattering (roughness.json)
+4V: x 1.41-1.80; <z> [10.8, 29.8] A; mu_sigma (Delta, Lambda): (0,0) 3601, (2,15) 293, (2,30) 913, (2,60) 2779, (2,100) 3330, (2,200) 3501, (4,15) 78, (4,30) 283, (4,60) 1657, (4,100) 2719, (4,200) 3232
+5V: x 1.59-1.91; <z> [9.6, 27.8] A; mu_sigma (Delta, Lambda): (0,0) 3583, (2,15) 276, (2,30) 1026, (2,60) 2821, (2,100) 3306, (2,200) 3465, (4,15) 73, (4,30) 327, (4,60) 1732, (4,100) 2690, (4,200) 3155
+7V: x 1.31-1.52; <z> [8.0, 24.3, 43.1] A; mu_sigma (Delta, Lambda): (0,0) 2420, (2,15) 158, (2,30) 572, (2,60) 1961, (2,100) 2257, (2,200) 2355, (4,15) 42, (4,30) 176, (4,60) 1253, (4,100) 1898, (4,200) 2199
+8V: x 1.31-1.61; <z> [6.5, 20.4, 38.4] A; mu_sigma (Delta, Lambda): (0,0) 2068, (2,15) 148, (2,30) 629, (2,60) 1686, (2,100) 1904, (2,200) 1977, (4,15) 39, (4,30) 205, (4,60) 1086, (4,100) 1563, (4,200) 1784
+== convergence (conv3.json)
+d 1.0 dz 0.5 nstates 10 nth 32: mu_sigma 529.6
+d 6.0 dz 0.5 nstates 10 nth 32: mu_sigma 2067.2
+d 1.0 dz 0.5 nstates 10 nth 64: mu_sigma 529.7
+d 6.0 dz 0.5 nstates 10 nth 64: mu_sigma 2068.1
+d 1.0 dz 0.5 nstates 10 nth 128: mu_sigma 529.7
+d 6.0 dz 0.5 nstates 10 nth 128: mu_sigma 2068.2
+d 1.0 dz 0.25 nstates 10 nth 64: mu_sigma 529.4
+d 6.0 dz 0.25 nstates 10 nth 64: mu_sigma 2067.2
+d 1.0 dz 0.5 nstates 14 nth 64: mu_sigma 533.2
+d 6.0 dz 0.5 nstates 14 nth 64: mu_sigma 2098.2

@@ -1,0 +1,54 @@
+5V Z 1 d  1.0 matched: model mu [1032, 1888] | mult: n_H/n 0.927 (fit 0.928) MR 0.29% | add: mu [327, 487] n_H/n 0.971 (fit 0.971) MR 0.16%
+5V Z 1 d  2.0 matched: model mu [1321, 2363] | mult: n_H/n 0.933 (fit 0.934) MR 0.26% | add: mu [330, 475] n_H/n 0.976 (fit 0.976) MR 0.13%
+5V Z 1 d  3.0 matched: model mu [1680, 2948] | mult: n_H/n 0.938 (fit 0.938) MR 0.23% | add: mu [332, 466] n_H/n 0.979 (fit 0.980) MR 0.11%
+5V Z 1 d  4.0 matched: model mu [2110, 3642] | mult: n_H/n 0.942 (fit 0.942) MR 0.20% | add: mu [334, 458] n_H/n 0.982 (fit 0.983) MR 0.10%
+5V Z 1 d  6.0 matched: model mu [3183, 5324] | mult: n_H/n 0.949 (fit 0.949) MR 0.17% | add: mu [336, 448] n_H/n 0.985 (fit 0.986) MR 0.08%
+5V Z 1 d  8.0 matched: model mu [4519, 7302] | mult: n_H/n 0.956 (fit 0.956) MR 0.14% | add: mu [338, 441] n_H/n 0.987 (fit 0.988) MR 0.07%
+5V Z 1 d 12.0 matched: model mu [7880, 11561] | mult: n_H/n 0.973 (fit 0.973) MR 0.09% | add: mu [340, 433] n_H/n 0.990 (fit 0.990) MR 0.06%
+5V Z 1 d 16.0 matched: model mu [12048, 15364] | mult: n_H/n 0.990 (fit 0.990) MR 0.04% | add: mu [341, 429] n_H/n 0.991 (fit 0.991) MR 0.06%
+5V Z 1 d 24.0 matched: model mu [22361, 20149] | mult: n_H/n 0.998 (fit 0.998) MR 0.01% | add: mu [341, 426] n_H/n 0.992 (fit 0.992) MR 0.05%
+5V Z 2 d  1.0 matched: model mu [521, 970] | mult: n_H/n 0.923 (fit 0.924) MR 0.31% | add: mu [317, 531] n_H/n 0.948 (fit 0.949) MR 0.25%
+5V Z 2 d  2.0 matched: model mu [669, 1221] | mult: n_H/n 0.928 (fit 0.929) MR 0.28% | add: mu [322, 512] n_H/n 0.959 (fit 0.960) MR 0.20%
+5V Z 2 d  3.0 matched: model mu [855, 1535] | mult: n_H/n 0.932 (fit 0.933) MR 0.25% | add: mu [325, 497] n_H/n 0.966 (fit 0.967) MR 0.17%
+5V Z 2 d  4.0 matched: model mu [1079, 1914] | mult: n_H/n 0.935 (fit 0.936) MR 0.23% | add: mu [328, 485] n_H/n 0.971 (fit 0.972) MR 0.14%
+5V Z 2 d  6.0 matched: model mu [1645, 2862] | mult: n_H/n 0.940 (fit 0.940) MR 0.20% | add: mu [332, 467] n_H/n 0.979 (fit 0.979) MR 0.11%
+5V Z 2 d  8.0 matched: model mu [2367, 4038] | mult: n_H/n 0.944 (fit 0.945) MR 0.18% | add: mu [334, 456] n_H/n 0.983 (fit 0.983) MR 0.09%
+5V Z 2 d 12.0 matched: model mu [4248, 6855] | mult: n_H/n 0.956 (fit 0.957) MR 0.15% | add: mu [338, 441] n_H/n 0.987 (fit 0.988) MR 0.07%
+5V Z 2 d 16.0 matched: model mu [6680, 9850] | mult: n_H/n 0.972 (fit 0.972) MR 0.10% | add: mu [340, 434] n_H/n 0.990 (fit 0.990) MR 0.06%
+5V Z 2 d 24.0 matched: model mu [13156, 14829] | mult: n_H/n 0.998 (fit 0.998) MR 0.01% | add: mu [341, 428] n_H/n 0.991 (fit 0.992) MR 0.05%
+7V Z 1 d  1.0 UNMATCHED: model mu [627, 976, 900] | mult: n_H/n 0.961 (fit 0.964) MR 0.84% | add: mu [627, 976, 900] n_H/n 0.961 (fit 0.963) MR 0.54%
+7V Z 1 d  2.0 matched: model mu [824, 1231, 1034] | mult: n_H/n 0.968 (fit 0.971) MR 0.65% | add: mu [820, 1225, 1030] n_H/n 0.968 (fit 0.971) MR 0.65%
+7V Z 1 d  3.0 matched: model mu [1080, 1560, 1184] | mult: n_H/n 0.973 (fit 0.975) MR 0.51% | add: mu [831, 1186, 943] n_H/n 0.975 (fit 0.978) MR 0.51%
+7V Z 1 d  4.0 matched: model mu [1402, 1967, 1342] | mult: n_H/n 0.978 (fit 0.979) MR 0.41% | add: mu [839, 1158, 880] n_H/n 0.980 (fit 0.982) MR 0.43%
+7V Z 1 d  6.0 matched: model mu [2264, 3030, 1661] | mult: n_H/n 0.983 (fit 0.984) MR 0.29% | add: mu [848, 1125, 796] n_H/n 0.985 (fit 0.987) MR 0.35%
+7V Z 1 d  8.0 matched: model mu [3437, 4429, 1943] | mult: n_H/n 0.986 (fit 0.987) MR 0.22% | add: mu [853, 1110, 745] n_H/n 0.987 (fit 0.989) MR 0.32%
+7V Z 1 d 12.0 matched: model mu [6746, 8118, 2307] | mult: n_H/n 0.991 (fit 0.991) MR 0.12% | add: mu [856, 1099, 692] n_H/n 0.988 (fit 0.990) MR 0.31%
+7V Z 1 d 16.0 matched: model mu [11279, 12544, 2404] | mult: n_H/n 0.994 (fit 0.994) MR 0.05% | add: mu [857, 1097, 671] n_H/n 0.988 (fit 0.991) MR 0.31%
+7V Z 1 d 24.0 matched: model mu [23197, 20612, 2222] | mult: n_H/n 0.992 (fit 0.993) MR 0.06% | add: mu [858, 1095, 667] n_H/n 0.988 (fit 0.991) MR 0.31%
+7V Z 2 d  1.0 UNMATCHED: model mu [315, 495, 541] | mult: n_H/n 0.958 (fit 0.962) MR 0.91% | add: mu [315, 495, 541] n_H/n 0.958 (fit 0.958) MR 0.16%
+7V Z 2 d  2.0 UNMATCHED: model mu [415, 627, 633] | mult: n_H/n 0.965 (fit 0.968) MR 0.70% | add: mu [415, 627, 633] n_H/n 0.965 (fit 0.966) MR 0.20%
+7V Z 2 d  3.0 UNMATCHED: model mu [545, 797, 739] | mult: n_H/n 0.971 (fit 0.973) MR 0.55% | add: mu [545, 797, 739] n_H/n 0.971 (fit 0.972) MR 0.26%
+7V Z 2 d  4.0 UNMATCHED: model mu [709, 1010, 855] | mult: n_H/n 0.976 (fit 0.977) MR 0.45% | add: mu [709, 1010, 855] n_H/n 0.976 (fit 0.977) MR 0.34%
+7V Z 2 d  6.0 matched: model mu [1152, 1575, 1103] | mult: n_H/n 0.981 (fit 0.982) MR 0.33% | add: mu [843, 1145, 849] n_H/n 0.982 (fit 0.983) MR 0.36%
+7V Z 2 d  8.0 matched: model mu [1763, 2340, 1345] | mult: n_H/n 0.984 (fit 0.985) MR 0.27% | add: mu [849, 1123, 765] n_H/n 0.985 (fit 0.987) MR 0.33%
+7V Z 2 d 12.0 matched: model mu [3533, 4501, 1728] | mult: n_H/n 0.987 (fit 0.988) MR 0.21% | add: mu [854, 1107, 674] n_H/n 0.987 (fit 0.989) MR 0.32%
+7V Z 2 d 16.0 matched: model mu [6064, 7448, 1930] | mult: n_H/n 0.989 (fit 0.990) MR 0.16% | add: mu [856, 1104, 635] n_H/n 0.987 (fit 0.990) MR 0.33%
+7V Z 2 d 24.0 matched: model mu [13239, 14476, 1935] | mult: n_H/n 0.994 (fit 0.994) MR 0.04% | add: mu [856, 1101, 623] n_H/n 0.987 (fit 0.990) MR 0.33%
+8V Z 1 d  1.0 UNMATCHED: model mu [449, 729, 1132] | mult: n_H/n 0.920 (fit 0.938) MR 2.94% | add: mu [449, 729, 1132] n_H/n 0.920 (fit 0.924) MR 0.86%
+8V Z 1 d  2.0 UNMATCHED: model mu [605, 939, 1392] | mult: n_H/n 0.936 (fit 0.949) MR 2.28% | add: mu [605, 939, 1392] n_H/n 0.936 (fit 0.941) MR 1.01%
+8V Z 1 d  3.0 UNMATCHED: model mu [817, 1221, 1735] | mult: n_H/n 0.948 (fit 0.957) MR 1.77% | add: mu [817, 1221, 1735] n_H/n 0.948 (fit 0.954) MR 1.21%
+8V Z 1 d  4.0 matched: model mu [1095, 1585, 2164] | mult: n_H/n 0.957 (fit 0.964) MR 1.40% | add: mu [1075, 1555, 2121] n_H/n 0.958 (fit 0.964) MR 1.40%
+8V Z 1 d  6.0 matched: model mu [1874, 2584, 3275] | mult: n_H/n 0.971 (fit 0.974) MR 0.91% | add: mu [1098, 1505, 1891] n_H/n 0.972 (fit 0.977) MR 0.97%
+8V Z 1 d  8.0 matched: model mu [2987, 3960, 4662] | mult: n_H/n 0.979 (fit 0.982) MR 0.61% | add: mu [1109, 1483, 1770] n_H/n 0.978 (fit 0.983) MR 0.79%
+8V Z 1 d 12.0 matched: model mu [6286, 7755, 7716] | mult: n_H/n 0.991 (fit 0.992) MR 0.26% | add: mu [1117, 1472, 1651] n_H/n 0.982 (fit 0.987) MR 0.67%
+8V Z 1 d 16.0 matched: model mu [11044, 12586, 10175] | mult: n_H/n 0.997 (fit 0.997) MR 0.09% | add: mu [1119, 1475, 1593] n_H/n 0.983 (fit 0.988) MR 0.64%
+8V Z 1 d 24.0 matched: model mu [24453, 23399, 11844] | mult: n_H/n 0.992 (fit 0.992) MR 0.15% | add: mu [1119, 1481, 1546] n_H/n 0.983 (fit 0.989) MR 0.63%
+8V Z 2 d  1.0 UNMATCHED: model mu [225, 368, 590] | mult: n_H/n 0.914 (fit 0.935) MR 3.15% | add: mu [225, 368, 590] n_H/n 0.914 (fit 0.916) MR 0.27%
+8V Z 2 d  2.0 UNMATCHED: model mu [304, 475, 730] | mult: n_H/n 0.930 (fit 0.945) MR 2.49% | add: mu [304, 475, 730] n_H/n 0.930 (fit 0.932) MR 0.33%
+8V Z 2 d  3.0 UNMATCHED: model mu [411, 619, 918] | mult: n_H/n 0.943 (fit 0.953) MR 1.99% | add: mu [411, 619, 918] n_H/n 0.943 (fit 0.945) MR 0.42%
+8V Z 2 d  4.0 UNMATCHED: model mu [552, 807, 1157] | mult: n_H/n 0.952 (fit 0.960) MR 1.62% | add: mu [552, 807, 1157] n_H/n 0.952 (fit 0.954) MR 0.56%
+8V Z 2 d  6.0 UNMATCHED: model mu [950, 1329, 1800] | mult: n_H/n 0.964 (fit 0.969) MR 1.14% | add: mu [950, 1329, 1800] n_H/n 0.964 (fit 0.968) MR 0.93%
+8V Z 2 d  8.0 matched: model mu [1524, 2068, 2658] | mult: n_H/n 0.972 (fit 0.976) MR 0.86% | add: mu [1101, 1492, 1906] n_H/n 0.973 (fit 0.977) MR 0.91%
+8V Z 2 d 12.0 matched: model mu [3259, 4216, 4841] | mult: n_H/n 0.983 (fit 0.986) MR 0.51% | add: mu [1114, 1473, 1733] n_H/n 0.980 (fit 0.985) MR 0.73%
+8V Z 2 d 16.0 matched: model mu [5831, 7209, 7141] | mult: n_H/n 0.991 (fit 0.992) MR 0.29% | add: mu [1117, 1475, 1643] n_H/n 0.982 (fit 0.987) MR 0.68%
+8V Z 2 d 24.0 matched: model mu [13510, 15207, 10045] | mult: n_H/n 0.995 (fit 0.996) MR 0.12% | add: mu [1117, 1486, 1561] n_H/n 0.982 (fit 0.988) MR 0.65%
