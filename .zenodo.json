@@ -1,4 +1,4 @@
-﻿{
+{
     "description":  "Self-contained repository containing the full reviewed manuscript (MAT03_paper.pdf), LaTeX source, qwkit v0.7.0 simulation engine, automated mathematical verification test suite (69 tests), and reproduction scripts/JSON datasets for: Immobile electrons at frozen gate charge: what the transport data of electrolyte-gated LaInO3/BaSnO3 allow",
     "upload_type":  "software",
     "creators":  [
