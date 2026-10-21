@@ -44,11 +44,11 @@ D.~M. McCann, M.~Misek, K.~V. Kamenev, and A.~D. Huxley.
 \newblock \doi{10.1016/j.phpro.2015.12.031}.
 
 \bibitem[Ownby(2026{\natexlab{a}})]{OwnbyMAT02}
-G.~Ownby.
-\newblock Where the gate charge must sit: electrostatic limits of electrolyte
-  gating at the {LaInO$_3$/BaSnO$_3$} interface and their intersubband
-  signature, 2026{\natexlab{a}}.
-\newblock unpublished.
+Gracen Ownby.
+\newblock {Where the gate charge must sit: electrostatic limits of electrolyte
+  gating at the LaInO3/BaSnO3 interface and their intersubband signature}.
+\newblock Zenodo, October 2026{\natexlab{a}}.
+\newblock URL \url{https://doi.org/10.5281/zenodo.23444585}.
 
 \bibitem[Ziman(1972)]{Ziman1972}
 J.~M. Ziman.
@@ -57,18 +57,19 @@ J.~M. Ziman.
 \newblock Chap. 7.
 
 \bibitem[Ownby(2026{\natexlab{b}})]{OwnbyMAT01}
-G.~Ownby.
-\newblock Intersubband optics of the polar {LaInO$_3$/BaSnO$_3$}
-  two-dimensional electron gas: fragmented hybrid plasmons, phonon-limited
-  lifetimes, intrinsic second-order nonlinearity and the limits of electrolyte
-  gating, 2026{\natexlab{b}}.
-\newblock unpublished.
+Gracen Ownby.
+\newblock {Intersubband optics of the polar LaInO3/BaSnO3 two-dimensional
+  electron gas: fragmented hybrid plasmons, phonon-limited lifetimes, intrinsic
+  second-order nonlinearity and the limits of electrolyte gating}.
+\newblock Zenodo, October 2026{\natexlab{b}}.
+\newblock URL \url{https://doi.org/10.5281/zenodo.23444579}.
 
 \bibitem[Ownby(2026{\natexlab{c}})]{qwkit}
-G.~Ownby.
-\newblock qwkit: self-consistent intersubband optics of quantum wells,
-  2026{\natexlab{c}}.
-\newblock version 0.6.2, University of Oklahoma.
+Gracen Ownby.
+\newblock {qwkit: self-consistent intersubband optics of quantum wells
+  (v0.7.0)}.
+\newblock Zenodo, October 2026{\natexlab{c}}.
+\newblock URL \url{https://doi.org/10.5281/zenodo.23444120}.
 
 \bibitem[Siggia and Kwok(1970)]{SiggiaKwok1970}
 E.~D. Siggia and P.~C. Kwok.
